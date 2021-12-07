@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5dfa131f-ce9a-4936-a9a6-7c28fa4f7da6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New and Accurate Map of Virginia and Maryland, 1752",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "5dfa131f-ce9a-4936-a9a6-7c28fa4f7da6",
+  "solr_geom": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "solr_year_i": "1752",
+  "dc_description_s": "Map showing the states Maryland and Virginia, 1752. 33 x 23 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82078/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12529\"}",
+  "dct_spatial_sm": [
+    "Maryland",
+    "Virginia",
+    "Chesapeake Bay Basin, Maryland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:18:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Bowen, Emanuel",
+  "dct_temporal_sm": [
+    "1752"
+  ]
+}

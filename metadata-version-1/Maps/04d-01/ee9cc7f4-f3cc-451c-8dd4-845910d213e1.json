@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ee9cc7f4-f3cc-451c-8dd4-845910d213e1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "First Records of Baltimore Town and Jones Town, 1729-1797 (1905)",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "ee9cc7f4-f3cc-451c-8dd4-845910d213e1",
+  "solr_geom": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
+  "solr_year_i": "1905",
+  "dc_description_s": "Map showing surveyed land in Baltimore City and Jones Town Maryland, 1905, in three Sheets. 41.5 x 45.7 cm; 47.4 x 40.3 cm; 46.0 x 54.6 cm; 3 images",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82095/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12535\"}",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland",
+    "Jones Town, Maryland",
+    "Maryland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:18:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ]
+}

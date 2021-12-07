@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "63de5d83-e3c5-4fcf-a3e2-7838a0ea8eb1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Algeria - St. Leu (Bettioua), 1911",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "63de5d83-e3c5-4fcf-a3e2-7838a0ea8eb1",
+  "solr_geom": "ENVELOPE(-0.324,-0.3677,35.6883,35.6422)",
+  "solr_year_i": "1911",
+  "dc_description_s": "Map of Algeria - St. Leu (Bettioua), 1911. Scale=1:10,000. Topography, streets, main buildings in Bettioua region. In French.",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/6c/df/49/18/6cdf4918-fd78-49dd-b79b-e2b336a97d88\"}",
+  "dct_spatial_sm": [
+    "Bettioua, Algeria"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:39Z",
+  "dc_publisher_s": "Service Géographique de L'Armée",
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "786a7dc8-35f1-4050-b0bf-f575a3610b8e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "F. Klemm’s Map of Baltimore and Suburbs, 1873",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "786a7dc8-35f1-4050-b0bf-f575a3610b8e",
+  "solr_geom": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
+  "solr_year_i": "1873",
+  "dc_description_s": "Map showing Baltimore, Maryland, and suburbs, 1873. 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82296/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12572\"}",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland",
+    "Maryland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:18:13Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Martenet, Simon J.",
+  "dct_temporal_sm": [
+    "1873"
+  ]
+}

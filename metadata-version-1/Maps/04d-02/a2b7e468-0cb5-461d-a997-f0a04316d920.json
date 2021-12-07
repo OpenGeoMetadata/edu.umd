@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a2b7e468-0cb5-461d-a997-f0a04316d920",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of France - Geological Map - Besançon, 1922",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "a2b7e468-0cb5-461d-a997-f0a04316d920",
+  "solr_geom": "ENVELOPE(1.895,0.978,50.569,50.2163)",
+  "solr_year_i": "1922",
+  "dc_description_s": "Map of France - Geological Map - Besançon , 1922. Scale=1:80,000. Topography, geology, rock types for parts of France ",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d8/ba/de/b5/d8badeb5-491a-4dd4-9dd8-a1374763eda1\"}",
+  "dct_spatial_sm": [
+    "Besançon, France"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:44Z",
+  "dc_publisher_s": "Inspector General of Mines",
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

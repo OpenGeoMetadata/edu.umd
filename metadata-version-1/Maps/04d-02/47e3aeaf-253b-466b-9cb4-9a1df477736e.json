@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "47e3aeaf-253b-466b-9cb4-9a1df477736e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Wardian, 1910",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "47e3aeaf-253b-466b-9cb4-9a1df477736e",
+  "solr_geom": "ENVELOPE(30.0091,29.7533,31.287,31.0942)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Wardian , 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9e/f9/e6/42/9ef9e642-4f00-42f9-8694-73999c837d96\"}",
+  "dct_spatial_sm": [
+    "Al Wardiyān, Egypt"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:43Z",
+  "dc_publisher_s": "Egypt Survey Department",
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

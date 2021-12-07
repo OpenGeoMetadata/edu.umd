@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f46d4b8a-a6f5-4451-9ff6-2debe1b1d181",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Breakwater, 1910",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "f46d4b8a-a6f5-4451-9ff6-2debe1b1d181",
+  "solr_geom": "ENVELOPE(29.856,29.8284,31.1908,31.1684)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Breakwater, 1910. Scale=1:5,000. Breakwater along Alexandria's Mediterranean coast. Incl. index of the Alexandria map series on reverse",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e3/9b/4b/a2/e39b4ba2-1d4c-4a60-b512-9836f03e4176\"}",
+  "dct_spatial_sm": [
+    "Quarantine Breakwater, Egypt"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:43Z",
+  "dc_publisher_s": "Egypt Survey Department",
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

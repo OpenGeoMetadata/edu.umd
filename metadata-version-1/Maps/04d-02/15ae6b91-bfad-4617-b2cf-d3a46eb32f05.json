@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "15ae6b91-bfad-4617-b2cf-d3a46eb32f05",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cape Town, South Africa",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "15ae6b91-bfad-4617-b2cf-d3a46eb32f05",
+  "solr_geom": "ENVELOPE(18.452,18.3738,-33.8872,-33.9551)",
+  "solr_year_i": "1916",
+  "dc_description_s": "Map of South Africa - City Map - Cape Town, 1916. Scale=1:7,250. Streets, major buildings, points of interest. This is a reproduction of an original map",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f4/94/3c/0a/f4943c0a-fd39-4d88-8f73-99084cd4299f\"}",
+  "dct_spatial_sm": [
+    "Cape Town, South Africa"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:17:55Z",
+  "dc_publisher_s": "J.C. Juta & Co.",
+  "dct_issued_s": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ]
+}

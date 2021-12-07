@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7bf98cf1-758b-4146-8a88-a98a41ec2573",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Baltimore, circa 1885",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "7bf98cf1-758b-4146-8a88-a98a41ec2573",
+  "solr_geom": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
+  "solr_year_i": "1885",
+  "dc_description_s": "Map showing the streets of Baltimore Maryland, circa 1885. 36.6 x 48.7 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82091/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12534\"}",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland",
+    "Maryland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:18:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Weishampel, J.F.",
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

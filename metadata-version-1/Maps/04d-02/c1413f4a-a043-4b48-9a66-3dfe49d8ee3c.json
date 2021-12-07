@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c1413f4a-a043-4b48-9a66-3dfe49d8ee3c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Stubbekjöbing (Stubbekøbing), 1901",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "c1413f4a-a043-4b48-9a66-3dfe49d8ee3c",
+  "solr_geom": "ENVELOPE(12.1353,11.9916,54.9232,54.8502)",
+  "solr_year_i": "1901",
+  "dc_description_s": "Map of Denmark - Stubbekjöbing (Stubbekøbing), 1901. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f3/53/76/ad/f35376ad-4d18-4a65-9763-e3c8ceb81056\"}",
+  "dct_spatial_sm": [
+    "Stubbekøbing, Denmark"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:42Z",
+  "dc_publisher_s": "Geodetic Institute",
+  "dct_issued_s": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ]
+}

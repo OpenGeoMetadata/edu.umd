@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4ec08c3e-1a7e-454e-bf1f-2895d8c1f066",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Mt. Rainier, Maryland, section one, Sanborn Map Company, 1921",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "4ec08c3e-1a7e-454e-bf1f-2895d8c1f066",
+  "solr_geom": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "A map of Mt. Rainier, Maryland from January 1921. The map was created by the Sanborn Map Company in New York and covers a portion of the town from Date St. to Rainier Ave and 34th St. This is the first map in a series of six; it includes an index of streets and on which map they can be found. Also included are a key to the maps, information about water facilities in the town and the fire department, and two inset maps showing the location of Mt. Rainier within the state of Maryland and one with highlighted areas showing which parts of town are covered by the maps. 54 x 64 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:684491/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/33415\"}",
+  "dct_spatial_sm": [
+    "Maryland",
+    "Mount Rainier, Maryland"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

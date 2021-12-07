@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "518bc701-85ec-4c17-92d2-e9887aa824d3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Germany - Geological Map - Schmelz (Smiltyné), 1916",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "518bc701-85ec-4c17-92d2-e9887aa824d3",
+  "solr_geom": "ENVELOPE(21.1636,20.9969,55.7986,55.6984)",
+  "solr_year_i": "1916",
+  "dc_description_s": "Map of Germany - Geological Map - Schmelz (Smiltyné), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Lithuania (old Prussia, pre-WW II Germany)",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c3/9c/60/cf/c39c60cf-1fd7-45a2-bcf4-4b225fdedf41\"}",
+  "dct_spatial_sm": [
+    "Mark Schmelz, Germany"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-08T16:42:07Z",
+  "dc_publisher_s": "Prussian Geological Institute",
+  "dct_issued_s": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ]
+}

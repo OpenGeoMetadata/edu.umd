@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "45cc18a1-7f5b-412d-a533-fb175e9d4d7a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Sheet 9, 1920",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "45cc18a1-7f5b-412d-a533-fb175e9d4d7a",
+  "solr_geom": "ENVELOPE(10.0787,9.9294,55.4747,55.4041)",
+  "solr_year_i": "1920",
+  "dc_description_s": "Map of Denmark - Sheet 9, 1920. Scale=1:160,000. Topography, towns, roads for parts of Denmark (Kolding-Haderslev region)",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b0/cf/3e/05/b0cf3e05-9688-4a5c-bc3e-1f6013105638\"}",
+  "dct_spatial_sm": [
+    "Kolding Kommune, Denmark",
+    "Haderslev Kommune, Denmark"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:42Z",
+  "dc_publisher_s": "General Staff Topographic Map",
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "01f851ee-f2ae-448d-9561-2146e92ead80",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Horslunde, 1905",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "01f851ee-f2ae-448d-9561-2146e92ead80",
+  "solr_geom": "ENVELOPE(11.2557,11.1106,54.9318,54.8599)",
+  "solr_year_i": "1905",
+  "dc_description_s": "Map of Denmark - Horslunde, 1905. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b2/4b/91/1b/b24b911b-009f-4e05-9fa4-c4f3c2df5cfb\"}",
+  "dct_spatial_sm": [
+    "Horslunde, Denmark"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:41Z",
+  "dc_publisher_s": "Geodetic Institute",
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ]
+}

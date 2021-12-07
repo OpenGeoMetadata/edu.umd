@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f85b14c4-8580-4d90-8ed7-6f53d92f2d6a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of France - Geological Map - St. Jean d'Angely, 1895",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "f85b14c4-8580-4d90-8ed7-6f53d92f2d6a",
+  "solr_geom": "ENVELOPE(-1.367,-2.2289,46.17,45.8401)",
+  "solr_year_i": "1895",
+  "dc_description_s": "Map of France - Geological Map - St. Jean d'Angely , 1895. Scale=1:80,000. Topography, geology, rock types for parts of France ",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a1/b3/d0/66/a1b3d066-d0ae-4a1c-98d0-e237e2caf52c\"}",
+  "dct_spatial_sm": [
+    "Saint-Jean-d’Angély, France"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:44Z",
+  "dc_publisher_s": "Inspector General of Mines",
+  "dct_issued_s": "1895",
+  "dct_temporal_sm": [
+    "1895"
+  ]
+}

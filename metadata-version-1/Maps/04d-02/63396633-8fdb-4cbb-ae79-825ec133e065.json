@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "63396633-8fdb-4cbb-ae79-825ec133e065",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Panama - Chorrera Quadrangle, 1922",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "63396633-8fdb-4cbb-ae79-825ec133e065",
+  "solr_geom": "ENVELOPE(-79.8305,-79.9138,8.9153,8.8315)",
+  "solr_year_i": "1922",
+  "dc_description_s": "Map of Panama - Chorrera Quadrangle, 1922. Scale=1:20,000. Topography, towns, roads, major buildings for parts of Panama and/or Panama Canal Zone",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f1/c4/1d/64/f1c41d64-17f4-4c63-99e2-3ec2512b0053\"}",
+  "dct_spatial_sm": [
+    "La Chorrera District, Panama"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:45Z",
+  "dc_publisher_s": "Army Map Service/Panama Canal Dept.",
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "04534d59-83a7-4415-a74a-e294ee22f1e8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The Plan for Improvement of the Channel of Jones Falls, 1870",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "04534d59-83a7-4415-a74a-e294ee22f1e8",
+  "solr_geom": "ENVELOPE(-76.897,-76.3181,39.7213,39.1999)",
+  "solr_year_i": "1870",
+  "dc_description_s": "Map showing Jones Falls channel and drainage of the adjacent portions of the city, 1870. 48.9 x 174.4 cm; 1 images",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82142/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12550\"}",
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Harford County, Maryland",
+    "Maryland"
+  ],
+  "layer_modified_dt": "2021-05-07T19:19:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Tyson, Henry",
+  "dct_temporal_sm": [
+    "1870"
+  ]
+}

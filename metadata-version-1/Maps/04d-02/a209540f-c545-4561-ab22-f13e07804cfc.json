@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a209540f-c545-4561-ab22-f13e07804cfc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Great Britain - Wrexham & Oswestry, 1921",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "a209540f-c545-4561-ab22-f13e07804cfc",
+  "solr_geom": "ENVELOPE(-3.3476,-4.0001,53.0895,52.8312)",
+  "solr_year_i": "1921",
+  "dc_description_s": "Map of Great Britain - Wrexham & Oswestry , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of England, Wales",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/7d/35/9d/97/7d359d97-eedb-47ec-809d-c88d7db7bc7c\"}",
+  "dct_spatial_sm": [
+    "Wrexham, United Kingdom"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:45Z",
+  "dc_publisher_s": "Ordnance Survey",
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

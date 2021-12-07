@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "32526355-24f3-4362-b401-1d169bc4575e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "America pars, Virginia dicta, 1590",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "32526355-24f3-4362-b401-1d169bc4575e",
+  "solr_geom": "ENVELOPE(-83.6754,-75.1664,39.466,36.5408)",
+  "solr_year_i": "1590",
+  "dc_description_s": "Map showing Virginia and surrounding areas, 1590. First map to show and name the Chesapeake Bay. 31 x 42 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82080/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12530\"}",
+  "dct_spatial_sm": [
+    "Virginia",
+    "Cape Fear Terrace, undefined"
+  ],
+  "layer_modified_dt": "2021-05-07T19:17:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "White, John and Theodor de Bry",
+  "dct_temporal_sm": [
+    "1590"
+  ]
+}

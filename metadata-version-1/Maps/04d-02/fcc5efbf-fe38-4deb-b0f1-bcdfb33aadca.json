@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fcc5efbf-fe38-4deb-b0f1-bcdfb33aadca",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Omö (Omø), 1908",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "fcc5efbf-fe38-4deb-b0f1-bcdfb33aadca",
+  "solr_geom": "ENVELOPE(11.2618,11.1155,55.2025,55.1305)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Map of Denmark - Omö (Omø), 1908. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0a/95/79/99/0a957999-a087-4bc8-9638-d8de1c85e4f1\"}",
+  "dct_spatial_sm": [
+    "Omø By, Denmark"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:42Z",
+  "dc_publisher_s": "Geodetic Institute",
+  "dct_issued_s": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

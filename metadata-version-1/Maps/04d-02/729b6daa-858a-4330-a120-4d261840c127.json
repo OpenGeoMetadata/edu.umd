@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "729b6daa-858a-4330-a120-4d261840c127",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Belgium - Rance, 1907",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "729b6daa-858a-4330-a120-4d261840c127",
+  "solr_geom": "ENVELOPE(4.4248,4.3129,50.196,50.1035)",
+  "solr_year_i": "1907",
+  "dc_description_s": "Map of Belgium - Rance, 1907. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/06/8d/a3/27/068da327-18fe-47f6-af35-591856a3e405\"}",
+  "dct_spatial_sm": [
+    "Rance, Belgium"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-05-07T19:18:40Z",
+  "dc_publisher_s": "Institute Military Cartography",
+  "dct_issued_s": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ]
+}
