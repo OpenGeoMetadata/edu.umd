@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ccd0eadc-0be9-477e-a940-3c986bb390bf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Belgium - Sivry, 1907",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "ccd0eadc-0be9-477e-a940-3c986bb390bf",
+  "solr_geom": "ENVELOPE(4.313,4.2008,50.1961,50.1036)",
+  "solr_year_i": "1907",
+  "dc_description_s": "Map of Belgium - Sivry, 1907. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/fb/c8/e8/7f/fbc8e87f-db41-4c42-8ae2-57488bf26869\"}",
+  "dct_spatial_sm": [
+    "Sivry, Belgium"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:25Z",
+  "dc_publisher_s": "Institute Military Cartography",
+  "dct_issued_s": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ]
+}

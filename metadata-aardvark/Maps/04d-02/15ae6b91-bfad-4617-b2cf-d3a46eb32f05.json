@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Cape Town, South Africa",
+  "dct_alternative_sm": [
+    "mdu-057205"
+  ],
+  "dct_description_sm": [
+    "Map of South Africa - City Map - Cape Town, 1916. Scale=1:7,250. Streets, major buildings, points of interest. This is a reproduction of an original map"
+  ],
+  "dct_publisher_sm": [
+    "J.C. Juta & Co."
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Road maps"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "dct_issued_s": "1916",
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "dct_spatial_sm": [
+    "Cape Town, South Africa"
+  ],
+  "locn_geometry": "ENVELOPE(18.452,18.3738,-33.8872,-33.9551)",
+  "dcat_bbox": "ENVELOPE(18.452,18.3738,-33.8872,-33.9551)",
+  "dcat_centroid": "-33.92115,18.4129",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f4/94/3c/0a/f4943c0a-fd39-4d88-8f73-99084cd4299f\"}",
+  "id": "15ae6b91-bfad-4617-b2cf-d3a46eb32f05",
+  "dct_identifier_sm": [
+    "15ae6b91-bfad-4617-b2cf-d3a46eb32f05"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:57Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

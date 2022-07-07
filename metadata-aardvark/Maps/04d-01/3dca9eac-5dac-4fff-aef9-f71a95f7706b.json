@@ -1,0 +1,61 @@
+{
+  "dct_title_s": "Georgetown and the city of Washington, the capital of the USA",
+  "dct_description_sm": [
+    "Illustrated map of Georgetown and Washington, D.C., 1855. Map includes illustrations of the Smithsonian, Washington Monument, and the Capitol Building. 47 x 40.4 cm; 1 images; monochrome"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "J.H. Colton & Co."
+  ],
+  "dct_publisher_sm": [
+    "J.H. Colton & Co."
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Pictorial maps"
+  ],
+  "dcat_keyword_sm": [
+    "Capitols",
+    "Government facilities",
+    "Monuments and memorials",
+    "Obelisks",
+    "University of Maryland Digital Collections"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "gbl_indexYear_im": [
+    "1855"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1855 TO 1855]"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., Washington, D.C.",
+    "Georgetown, Washington, D.C.",
+    "Washington Monument, Washington, D.C."
+  ],
+  "locn_geometry": "ENVELOPE(-77.0768,-76.9615,38.9208,38.8554)",
+  "dcat_bbox": "ENVELOPE(-77.0768,-76.9615,38.9208,38.8554)",
+  "dcat_centroid": "38.8881,-77.01915",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:683464/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/32975\"}",
+  "id": "3dca9eac-5dac-4fff-aef9-f71a95f7706b",
+  "dct_identifier_sm": [
+    "3dca9eac-5dac-4fff-aef9-f71a95f7706b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:17Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

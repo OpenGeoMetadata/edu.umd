@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Belgium - Roeulx (Le Roeulx), 1905",
+  "dct_alternative_sm": [
+    "mdu-056996"
+  ],
+  "dct_description_sm": [
+    "Map of Belgium - Roeulx (Le Roeulx), 1905. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
+  ],
+  "dct_publisher_sm": [
+    "Institute Military Cartography"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dct_issued_s": "1905",
+  "gbl_indexYear_im": [
+    "1905"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "Roeulx, Belgium"
+  ],
+  "locn_geometry": "ENVELOPE(4.4252,4.3126,50.5558,50.4632)",
+  "dcat_bbox": "ENVELOPE(4.4252,4.3126,50.5558,50.4632)",
+  "dcat_centroid": "50.5095,4.3689",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/00/c2/b5/8c/00c2b58c-3e53-417d-816b-d925f107e0e0\"}",
+  "id": "14e74538-5223-462e-9402-30f16b137be1",
+  "dct_identifier_sm": [
+    "14e74538-5223-462e-9402-30f16b137be1"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:50Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

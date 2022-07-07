@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f44864cc-4569-4276-b977-5c57f7520774",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Belgium - Houttave (Houtave), 1911",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "f44864cc-4569-4276-b977-5c57f7520774",
+  "solr_geom": "ENVELOPE(3.4075,3.2924,50.7307,50.639)",
+  "solr_year_i": "1911",
+  "dc_description_s": "Map of Belgium - Houttave (Houtave), 1911. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/7d/0d/a4/56/7d0da456-ff2b-4409-ad51-d842a383cfdf\"}",
+  "dct_spatial_sm": [
+    "Houtave, Belgium"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:19Z",
+  "dc_publisher_s": "Institute Military Cartography",
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ]
+}

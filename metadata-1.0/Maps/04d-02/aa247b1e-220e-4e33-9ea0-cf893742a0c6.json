@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "aa247b1e-220e-4e33-9ea0-cf893742a0c6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Sheet 12, 1910",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "aa247b1e-220e-4e33-9ea0-cf893742a0c6",
+  "solr_geom": "ENVELOPE(10.9802,9.9688,56.7021,56.0847)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Map of Denmark - Sheet 12, 1910. Scale=1:160,000. Topography, towns, roads for parts of Denmark (Grenaa region)",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a7/eb/0a/5c/a7eb0a5c-cb00-472d-ba2a-c3830cb1a9de\"}",
+  "dct_spatial_sm": [
+    "Grenaa Marina, Denmark"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:30Z",
+  "dc_publisher_s": "General Staff Topographic Map",
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

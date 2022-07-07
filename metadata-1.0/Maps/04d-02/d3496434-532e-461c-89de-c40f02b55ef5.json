@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d3496434-532e-461c-89de-c40f02b55ef5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Bacos, 1910",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "d3496434-532e-461c-89de-c40f02b55ef5",
+  "solr_geom": "ENVELOPE(29.9346,29.907,31.2361,31.2136)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Bacos, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5e/a2/f8/17/5ea2f817-efd2-4986-a7f4-9ba22ec75465\"}",
+  "dct_spatial_sm": [
+    "Bākūs, Egypt"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:12Z",
+  "dc_publisher_s": "Egypt Survey Department",
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

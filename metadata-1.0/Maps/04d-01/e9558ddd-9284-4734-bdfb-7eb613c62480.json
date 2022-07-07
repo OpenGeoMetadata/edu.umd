@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e9558ddd-9284-4734-bdfb-7eb613c62480",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Maryland [and] Western Part of Maryland, circa 1804",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "e9558ddd-9284-4734-bdfb-7eb613c62480",
+  "solr_geom": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "solr_year_i": "1804",
+  "dc_description_s": "Map showing the Western portion of the state of Maryland, circa 1804. 27 x 22.7 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82075/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12528\"}",
+  "dct_spatial_sm": [
+    "Maryland",
+    "Chesapeake Bay Basin, Maryland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:12Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Lewis, Samuel",
+  "dct_temporal_sm": [
+    "1804"
+  ]
+}

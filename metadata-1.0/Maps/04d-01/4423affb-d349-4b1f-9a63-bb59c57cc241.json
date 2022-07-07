@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4423affb-d349-4b1f-9a63-bb59c57cc241",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Maryland. Inset: Western part of Maryland, 1814",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "4423affb-d349-4b1f-9a63-bb59c57cc241",
+  "solr_geom": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "solr_year_i": "1814",
+  "dc_description_s": "Map showing the state of Maryland with an inset detailing a portion of Western Maryland, 1814. 43 x 56 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82087/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12533\"}",
+  "dct_spatial_sm": [
+    "Maryland",
+    "Chesapeake Bay Basin, Maryland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Carey, Mathew",
+  "dct_temporal_sm": [
+    "1814"
+  ]
+}

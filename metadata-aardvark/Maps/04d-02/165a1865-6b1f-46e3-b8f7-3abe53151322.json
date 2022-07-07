@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Denmark - Nre Alslev (Nørre Alslev), 1901",
+  "dct_alternative_sm": [
+    "mdu-057055"
+  ],
+  "dct_description_sm": [
+    "Map of Denmark - Nre Alslev (Nørre Alslev) , 1901. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
+  ],
+  "dct_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_issued_s": "1901",
+  "gbl_indexYear_im": [
+    "1901"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Nørre Alslev, Denmark"
+  ],
+  "locn_geometry": "ENVELOPE(11.9886,11.8448,54.925,54.8522)",
+  "dcat_bbox": "ENVELOPE(11.9886,11.8448,54.925,54.8522)",
+  "dcat_centroid": "54.8886,11.916699999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c6/d1/a6/1d/c6d1a61d-f88e-4536-a251-0ed87800b605\"}",
+  "id": "165a1865-6b1f-46e3-b8f7-3abe53151322",
+  "dct_identifier_sm": [
+    "165a1865-6b1f-46e3-b8f7-3abe53151322"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:53Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

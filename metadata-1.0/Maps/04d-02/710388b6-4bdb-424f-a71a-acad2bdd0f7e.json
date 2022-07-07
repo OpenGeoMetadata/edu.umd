@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "710388b6-4bdb-424f-a71a-acad2bdd0f7e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Hadra, 1910",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "710388b6-4bdb-424f-a71a-acad2bdd0f7e",
+  "solr_geom": "ENVELOPE(29.9347,29.9071,31.191,31.1685)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Hadra, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f5/8c/83/c5/f58c83c5-4f2a-47e3-9235-579c4e9aab70\"}",
+  "dct_spatial_sm": [
+    "Al Ḩaḑrah, Egypt"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:14Z",
+  "dc_publisher_s": "Egypt Survey Department",
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

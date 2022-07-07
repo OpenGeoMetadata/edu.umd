@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "61175df5-78b6-40f6-9090-4036fe599c1d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Holsteinborg, 1908",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "61175df5-78b6-40f6-9090-4036fe599c1d",
+  "solr_geom": "ENVELOPE(11.559,11.4131,55.2679,55.1956)",
+  "solr_year_i": "1908",
+  "dc_description_s": "Map of Denmark - Holsteinborg, 1908. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5e/54/00/e7/5e5400e7-0c61-4fe0-b6f1-1a74c06b6275\"}",
+  "dct_spatial_sm": [
+    "Holsteinborg, Denmark"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:38Z",
+  "dc_publisher_s": "Geodetic Institute",
+  "dct_issued_s": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

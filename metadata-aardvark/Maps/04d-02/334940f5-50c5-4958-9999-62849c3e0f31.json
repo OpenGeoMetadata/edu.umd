@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Belgium - Assenois, 1922",
+  "dct_alternative_sm": [
+    "mdu-057041"
+  ],
+  "dct_description_sm": [
+    "Map of Belgium - Assenois, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
+  ],
+  "dct_publisher_sm": [
+    "Institute Military Cartography"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_issued_s": "1922",
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Assenois, Belgium"
+  ],
+  "locn_geometry": "ENVELOPE(5.5346,5.4255,49.8316,49.738)",
+  "dcat_bbox": "ENVELOPE(5.5346,5.4255,49.8316,49.738)",
+  "dcat_centroid": "49.784800000000004,5.48005",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/16/dd/44/37/16dd4437-58a2-4584-9459-28c26b053b2d\"}",
+  "id": "334940f5-50c5-4958-9999-62849c3e0f31",
+  "dct_identifier_sm": [
+    "334940f5-50c5-4958-9999-62849c3e0f31"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:21Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

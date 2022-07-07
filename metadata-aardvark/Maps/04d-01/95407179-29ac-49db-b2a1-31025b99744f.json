@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "Map illustrative of Allegany and Washington counties",
+  "dct_description_sm": [
+    "Illustrative map of Allegany and Washington counties,1840. Includes a geological profile of the Cumberland and National roads. 46 x 20.1 cm; 1 images; monochrome"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Weber, Edward"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps",
+    "Geological maps"
+  ],
+  "dcat_keyword_sm": [
+    "Cumberland Road",
+    "Mountains",
+    "University of Maryland Digital Collections"
+  ],
+  "dct_temporal_sm": [
+    "1840"
+  ],
+  "gbl_indexYear_im": [
+    "1840"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1840 TO 1840]"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Washington County, Maryland",
+    "Allegheny Mountains, West Virginia"
+  ],
+  "locn_geometry": "ENVELOPE(-80.3587,-79.6891,40.6758,40.1955)",
+  "dcat_bbox": "ENVELOPE(-80.3587,-79.6891,40.6758,40.1955)",
+  "dcat_centroid": "40.43565,-80.0239",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:683458/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/32972\"}",
+  "id": "95407179-29ac-49db-b2a1-31025b99744f",
+  "dct_identifier_sm": [
+    "95407179-29ac-49db-b2a1-31025b99744f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:41Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "128edf09-95b3-45ca-a0f2-c77aa1f13df0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The States of Maryland and Delaware From the Latest Surveys, 1799",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "128edf09-95b3-45ca-a0f2-c77aa1f13df0",
+  "solr_geom": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "solr_year_i": "1799",
+  "dc_description_s": "Map showing the states of Maryland and Delaware, 1799. 25.9 x 21.2 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82065/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12524\"}",
+  "dct_spatial_sm": [
+    "Maryland",
+    "Delaware",
+    "Chesapeake Bay Basin, Maryland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Anderson, John.",
+  "dct_temporal_sm": [
+    "1799"
+  ]
+}

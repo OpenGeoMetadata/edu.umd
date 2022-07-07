@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Belgium - Gedinne, 1922",
+  "dct_alternative_sm": [
+    "mdu-057028"
+  ],
+  "dct_description_sm": [
+    "Map of Belgium - Gedinne, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
+  ],
+  "dct_publisher_sm": [
+    "Institute Military Cartography"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_issued_s": "1922",
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Gedinne, Belgium"
+  ],
+  "locn_geometry": "ENVELOPE(4.8694,4.7588,49.9257,49.8328)",
+  "dcat_bbox": "ENVELOPE(4.8694,4.7588,49.9257,49.8328)",
+  "dcat_centroid": "49.87925,4.8141",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/98/4f/5d/8e/984f5d8e-6c30-4044-9590-d3f080340859\"}",
+  "id": "90768490-efd0-4614-9422-16681e49a31f",
+  "dct_identifier_sm": [
+    "90768490-efd0-4614-9422-16681e49a31f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:29Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

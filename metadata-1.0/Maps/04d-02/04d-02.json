@@ -1,0 +1,15 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "04d-02",
+  "dc_rights_s": "Public",
+  "dc_title_s": "University of Maryland: U.S. Government Information, Maps, & GIS Services",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "04d-02",
+  "solr_geom": "ENVELOPE(4.3125,4.425208333,50.64561389,50.55311667)",
+  "dc_format_s": "Website",
+  "dc_subject_sm": [
+    "Map collections"
+  ],
+  "dct_references_s": "{}",
+  "layer_modified_dt": "2022-04-01T15:25:34Z"
+}

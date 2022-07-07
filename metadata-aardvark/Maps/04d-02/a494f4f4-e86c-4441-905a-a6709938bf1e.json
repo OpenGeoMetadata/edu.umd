@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Denmark - Stenderup Hage, 1904",
+  "dct_alternative_sm": [
+    "mdu-057058"
+  ],
+  "dct_description_sm": [
+    "Map of Denmark - Stenderup Hage, 1904. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
+  ],
+  "dct_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dct_issued_s": "1904",
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Stenderup Hage, Denmark"
+  ],
+  "locn_geometry": "ENVELOPE(9.7814,9.6315,55.4731,55.4029)",
+  "dcat_bbox": "ENVELOPE(9.7814,9.6315,55.4731,55.4029)",
+  "dcat_centroid": "55.438,9.70645",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9d/1f/7c/be/9d1f7cbe-91e5-4b53-8b32-758d562415f8\"}",
+  "id": "a494f4f4-e86c-4441-905a-a6709938bf1e",
+  "dct_identifier_sm": [
+    "a494f4f4-e86c-4441-905a-a6709938bf1e"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:49Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

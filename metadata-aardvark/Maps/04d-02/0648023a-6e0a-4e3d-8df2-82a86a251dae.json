@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Great Britain - Boston, 1922",
+  "dct_alternative_sm": [
+    "mdu-057181"
+  ],
+  "dct_description_sm": [
+    "Map of Great Britain - Boston , 1922. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of England"
+  ],
+  "dct_publisher_sm": [
+    "Ordnance Survey"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_issued_s": "1922",
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Boston, United Kingdom"
+  ],
+  "locn_geometry": "ENVELOPE(-0.7687,-1.4056,53.0899,52.8176)",
+  "dcat_bbox": "ENVELOPE(-0.7687,-1.4056,53.0899,52.8176)",
+  "dcat_centroid": "52.95375,-1.08715",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/31/ce/d3/54/31ced354-32aa-4a14-9769-330719dea557\"}",
+  "id": "0648023a-6e0a-4e3d-8df2-82a86a251dae",
+  "dct_identifier_sm": [
+    "0648023a-6e0a-4e3d-8df2-82a86a251dae"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:01Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

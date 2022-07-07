@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d56e0f55-0626-45df-a241-cc2c5a7a0cbc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Virginia and Maryland, circa 1732",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "d56e0f55-0626-45df-a241-cc2c5a7a0cbc",
+  "solr_geom": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "solr_year_i": "1732",
+  "dc_creator_sm": [
+    "Moll, Herman, -1732"
+  ],
+  "dc_description_s": "A map of Virginia and Maryland created by geographer H. Moll, circa 1732. 24 x 37 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:682973/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/32761\"}",
+  "dct_spatial_sm": [
+    "Maryland",
+    "Virginia"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1732"
+  ]
+}

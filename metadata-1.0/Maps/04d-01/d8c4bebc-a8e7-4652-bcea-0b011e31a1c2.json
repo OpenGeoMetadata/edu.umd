@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d8c4bebc-a8e7-4652-bcea-0b011e31a1c2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Approaches to Baltimore Harbor, Maryland, 1905",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "d8c4bebc-a8e7-4652-bcea-0b011e31a1c2",
+  "solr_geom": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
+  "solr_year_i": "1905",
+  "dc_description_s": "Map of Baltimore Harbor in Maryland, 1905. 70.5 x 66 cm; 1 images",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82140/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12549\"}",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland",
+    "Maryland",
+    "Baltimore, Inner Harbor, Maryland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Harbor Board of Baltimore",
+  "dct_temporal_sm": [
+    "1905"
+  ]
+}

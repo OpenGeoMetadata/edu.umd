@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "98237d0a-3768-4a36-a408-e094015d4ee6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Uggerlöse (Ugerløse), 1911",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "98237d0a-3768-4a36-a408-e094015d4ee6",
+  "solr_geom": "ENVELOPE(11.7184,11.5714,55.6049,55.5323)",
+  "solr_year_i": "1911",
+  "dc_description_s": "Map of Denmark - Uggerlöse (Ugerløse), 1911. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d1/25/86/ba/d12586ba-7632-418f-9eb5-aa3c19c659a8\"}",
+  "dct_spatial_sm": [
+    "Ugerløse, Denmark"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:31Z",
+  "dc_publisher_s": "Geodetic Institute",
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ]
+}

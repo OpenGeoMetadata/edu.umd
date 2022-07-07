@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "25a181b6-eb1f-40c7-aa0b-b4e5c81cad45",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Mt. Rainier, Maryland, section two, Sanborn Map Company, 1921",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "25a181b6-eb1f-40c7-aa0b-b4e5c81cad45",
+  "solr_geom": "ENVELOPE(-76.9739,-76.9557,38.954,38.9316)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "A map of Mt. Rainier, Maryland from January, 1921. The map was created by the Sanborn Map Company from New York and is the second map in a series of six. This map covers Shasta Ave. connecting to Rainier Ave., Ash St., and 31st St. to 34th St. Water pipes are noted on the map as are certain buildings, such as an Episcopal church. Some buildings also have building materials noted on them. 54 x 64 cm; 1 images; color",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:684495/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/33417\"}",
+  "dct_spatial_sm": [
+    "Mount Rainier, Maryland",
+    "Maryland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

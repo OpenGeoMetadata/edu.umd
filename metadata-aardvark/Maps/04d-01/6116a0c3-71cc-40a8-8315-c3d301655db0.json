@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Map of the States of Maryland and Delaware, circa 1796",
+  "dct_description_sm": [
+    "Map showing the states of Maryland and Delaware, with parts of Pennsylvania. 28 x 21.7 cm; 1 images; color"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Denison, J."
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "University of Maryland Digital Collections"
+  ],
+  "dct_temporal_sm": [
+    "1796"
+  ],
+  "gbl_indexYear_im": [
+    "1796"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1796 TO 1796]"
+  ],
+  "dct_spatial_sm": [
+    "Maryland",
+    "Delaware",
+    "Pennsylvania",
+    "Chesapeake Bay Basin, Maryland"
+  ],
+  "locn_geometry": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "dcat_bbox": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "dcat_centroid": "38.8048,-77.237",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82067/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12525\"}",
+  "id": "6116a0c3-71cc-40a8-8315-c3d301655db0",
+  "dct_identifier_sm": [
+    "6116a0c3-71cc-40a8-8315-c3d301655db0"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:11Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

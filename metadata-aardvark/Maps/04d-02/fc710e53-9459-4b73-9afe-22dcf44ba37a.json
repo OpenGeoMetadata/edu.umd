@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Denmark - Lyö (Lyø), 1922",
+  "dct_alternative_sm": [
+    "mdu-057106"
+  ],
+  "dct_description_sm": [
+    "Map of Denmark - Lyö (Lyø), 1922. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
+  ],
+  "dct_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_issued_s": "1922",
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Lyø Krog, Denmark"
+  ],
+  "locn_geometry": "ENVELOPE(10.6764,10.5267,55.8812,55.81)",
+  "dcat_bbox": "ENVELOPE(10.6764,10.5267,55.8812,55.81)",
+  "dcat_centroid": "55.845600000000005,10.60155",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/45/b3/b4/4a/45b3b44a-2144-40e2-a81a-227a3b35cd16\"}",
+  "id": "fc710e53-9459-4b73-9afe-22dcf44ba37a",
+  "dct_identifier_sm": [
+    "fc710e53-9459-4b73-9afe-22dcf44ba37a"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:42Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

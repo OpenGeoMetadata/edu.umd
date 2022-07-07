@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5e8b5483-eae3-4dcc-ad15-f643ea9c59a4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Besser Rev, 1922",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "5e8b5483-eae3-4dcc-ad15-f643ea9c59a4",
+  "solr_geom": "ENVELOPE(10.6769,10.5269,55.949,55.8777)",
+  "solr_year_i": "1922",
+  "dc_description_s": "Map of Denmark - Besser Rev, 1922. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5d/0a/0e/84/5d0a0e84-d5d5-424e-97f7-690e4b42f71e\"}",
+  "dct_spatial_sm": [
+    "Besser Rev, Denmark"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:59Z",
+  "dc_publisher_s": "Geodetic Institute",
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

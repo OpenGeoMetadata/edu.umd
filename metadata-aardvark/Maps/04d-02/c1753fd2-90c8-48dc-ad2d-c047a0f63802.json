@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Denmark - Vaalse (Vålse), 1901",
+  "dct_alternative_sm": [
+    "mdu-057052"
+  ],
+  "dct_description_sm": [
+    "Map of Denmark - Vaalse (Vålse), 1901. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
+  ],
+  "dct_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "dct_issued_s": "1901",
+  "gbl_indexYear_im": [
+    "1901"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Vålse Vesterskov, Denmark"
+  ],
+  "locn_geometry": "ENVELOPE(11.8446,11.7002,55.9944,55.9218)",
+  "dcat_bbox": "ENVELOPE(11.8446,11.7002,55.9944,55.9218)",
+  "dcat_centroid": "55.9581,11.772400000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/42/ca/31/5d/42ca315d-b7b4-4c62-a5f7-29b4a2b567f6\"}",
+  "id": "c1753fd2-90c8-48dc-ad2d-c047a0f63802",
+  "dct_identifier_sm": [
+    "c1753fd2-90c8-48dc-ad2d-c047a0f63802"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:20Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

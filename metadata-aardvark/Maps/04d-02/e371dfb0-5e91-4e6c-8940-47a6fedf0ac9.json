@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Asia - Southern Asia - Thailand, 1945",
+  "dct_alternative_sm": [
+    "mdu-056980"
+  ],
+  "dct_description_sm": [
+    "Map of Asia - Southern Asia - Thailand, 1945. Scale=1:2,000,000. Topography, towns, roads for parts of Kampuchea, Myanmar, Thailand, Vietnam"
+  ],
+  "dct_publisher_sm": [
+    "Army Map Service"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "dct_issued_s": "1945",
+  "gbl_indexYear_im": [
+    "1945"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "locn_geometry": "ENVELOPE(110.0066,95.9087,16.2399,7.8483)",
+  "dcat_bbox": "ENVELOPE(110.0066,95.9087,16.2399,7.8483)",
+  "dcat_centroid": "12.0441,102.95765",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/66/b0/49/a2/66b049a2-738d-4066-a330-6402018f5593\"}",
+  "id": "e371dfb0-5e91-4e6c-8940-47a6fedf0ac9",
+  "dct_identifier_sm": [
+    "e371dfb0-5e91-4e6c-8940-47a6fedf0ac9"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:55Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

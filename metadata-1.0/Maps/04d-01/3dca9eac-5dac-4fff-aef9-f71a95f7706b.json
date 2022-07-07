@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3dca9eac-5dac-4fff-aef9-f71a95f7706b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Georgetown and the city of Washington, the capital of the USA",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "3dca9eac-5dac-4fff-aef9-f71a95f7706b",
+  "solr_geom": "ENVELOPE(-77.0768,-76.9615,38.9208,38.8554)",
+  "solr_year_i": "1855",
+  "dc_creator_sm": [
+    "J.H. Colton & Co."
+  ],
+  "dc_description_s": "Illustrated map of Georgetown and Washington, D.C., 1855. Map includes illustrations of the Smithsonian, Washington Monument, and the Capitol Building. 47 x 40.4 cm; 1 images; monochrome",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:683464/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/32975\"}",
+  "dct_spatial_sm": [
+    "Washington, D.C., Washington, D.C.",
+    "Georgetown, Washington, D.C.",
+    "Washington Monument, Washington, D.C."
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "J.H. Colton & Co.",
+  "dct_temporal_sm": [
+    "1855"
+  ]
+}

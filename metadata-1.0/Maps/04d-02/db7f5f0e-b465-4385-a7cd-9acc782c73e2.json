@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "db7f5f0e-b465-4385-a7cd-9acc782c73e2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Mex, 1910",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "db7f5f0e-b465-4385-a7cd-9acc782c73e2",
+  "solr_geom": "ENVELOPE(29.8562,29.8285,31.1457,31.1233)",
+  "solr_year_i": "1910",
+  "dc_description_s": "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Mex, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a9/3b/87/eb/a93b87eb-ee4f-4e3d-9fcd-671d378648f1\"}",
+  "dct_spatial_sm": [
+    "Al Maks, Egypt"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:51Z",
+  "dc_publisher_s": "Egypt Survey Department",
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

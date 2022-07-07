@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b996f20b-36ca-40ad-928a-e2709a08f774",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Algeria - Debrousseville, 1911",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "b996f20b-36ca-40ad-928a-e2709a08f774",
+  "solr_geom": "ENVELOPE(-0.1403,-0.1839,35.8197,35.7735)",
+  "solr_year_i": "1911",
+  "dc_description_s": "Map of Algeria - Debrousseville , 1911. Scale=1:10,000. Topography, streets, main buildings in Debrousseville region. In French.",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/95/62/00/fa/956200fa-4a5f-419b-8b1c-b700fe2ebcd7\"}",
+  "dct_spatial_sm": [
+    "Debrousseville, Algeria"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:12Z",
+  "dc_publisher_s": "Service Géographique de L'Armée",
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ]
+}

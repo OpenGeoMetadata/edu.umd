@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Germany - Geological Map - Alt Passarger (Stara Pasleka), 1916",
+  "dct_alternative_sm": [
+    "mdu-057164"
+  ],
+  "dct_description_sm": [
+    "Map of Germany - Geological Map - Alt Passarger (Stara Pasleka), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Poland, Russia (old Prussia, pre-WW II Germany)"
+  ],
+  "dct_publisher_sm": [
+    "Prussian Geological Institute"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "dct_issued_s": "1916",
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "dct_spatial_sm": [
+    "Stara Pasłęka, Poland"
+  ],
+  "locn_geometry": "ENVELOPE(20.3321,20.1618,54.5984,54.4984)",
+  "dcat_bbox": "ENVELOPE(20.3321,20.1618,54.5984,54.4984)",
+  "dcat_centroid": "54.5484,20.24695",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/de/65/82/08/de658208-bad0-4328-83bf-34c2ed0b00cc\"}",
+  "id": "9766dc06-1e9c-40b2-9ea3-45e2cf01b6b6",
+  "dct_identifier_sm": [
+    "9766dc06-1e9c-40b2-9ea3-45e2cf01b6b6"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:30Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

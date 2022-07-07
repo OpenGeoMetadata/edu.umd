@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4de315f3-3ed2-4f24-86e3-a2e22e6c0ae2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Austria - Umgebungskarte von Linz, 1920",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "4de315f3-3ed2-4f24-86e3-a2e22e6c0ae2",
+  "solr_geom": "ENVELOPE(14.3843,14.1609,48.3922,48.2283)",
+  "solr_year_i": "1920",
+  "dc_description_s": "Map of Austria - Umgebungskarte von Linz, 1920. Scale=1:30,000. Topography, towns, roads, main buildings in the Linz area",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/29/20/89/63/29208963-e2c2-4899-8954-df20ab2c05ee\"}",
+  "dct_spatial_sm": [
+    "Asnæs Rev, Denmark"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:11Z",
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

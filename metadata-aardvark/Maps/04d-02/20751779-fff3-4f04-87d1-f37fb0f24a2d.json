@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Denmark - Lönborg Gd (Lønborg), 1911",
+  "dct_alternative_sm": [
+    "mdu-057083"
+  ],
+  "dct_description_sm": [
+    "Map of Denmark - Lönborg Gd (Lønborg), 1911. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
+  ],
+  "dct_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dct_issued_s": "1911",
+  "gbl_indexYear_im": [
+    "1911"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "dct_spatial_sm": [
+    "Lønborg, Denmark"
+  ],
+  "locn_geometry": "ENVELOPE(8.4205,8.2663,55.9309,55.8624)",
+  "dcat_bbox": "ENVELOPE(8.4205,8.2663,55.9309,55.8624)",
+  "dcat_centroid": "55.89665,8.343399999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b8/61/48/42/b8614842-fe27-4d33-b132-7322c4229224\"}",
+  "id": "20751779-fff3-4f04-87d1-f37fb0f24a2d",
+  "dct_identifier_sm": [
+    "20751779-fff3-4f04-87d1-f37fb0f24a2d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:29Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

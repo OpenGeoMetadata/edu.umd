@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Belgium - Saint-Leger (Saint-Léger), 1922",
+  "dct_alternative_sm": [
+    "mdu-057048"
+  ],
+  "dct_description_sm": [
+    "Map of Belgium - Saint-Leger (Saint-Léger), 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
+  ],
+  "dct_publisher_sm": [
+    "Institute Military Cartography"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_issued_s": "1922",
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Saint-Léger, Belgium"
+  ],
+  "locn_geometry": "ENVELOPE(5.7514,5.6433,49.6494,49.5557)",
+  "dcat_bbox": "ENVELOPE(5.7514,5.6433,49.6494,49.5557)",
+  "dcat_centroid": "49.60255,5.69735",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d1/8b/f5/69/d18bf569-034c-4830-abe1-8b5b2cc31f3c\"}",
+  "id": "9b366535-cd8b-4dd4-834f-1da6853541cb",
+  "dct_identifier_sm": [
+    "9b366535-cd8b-4dd4-834f-1da6853541cb"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:25Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

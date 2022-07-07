@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Denmark - Faxe Ladeplads (Fakse Ladeplads), 1906",
+  "dct_alternative_sm": [
+    "mdu-057064"
+  ],
+  "dct_description_sm": [
+    "Map of Denmark - Faxe Ladeplads (Fakse Ladeplads), 1906. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
+  ],
+  "dct_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dct_issued_s": "1906",
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Faxe Ladeplads, Denmark"
+  ],
+  "locn_geometry": "ENVELOPE(12.298,12.1535,55.2593,55.1862)",
+  "dcat_bbox": "ENVELOPE(12.298,12.1535,55.2593,55.1862)",
+  "dcat_centroid": "55.222750000000005,12.22575",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/2d/19/1e/ce/2d191ece-f4bb-48e6-ace3-84033f40b175\"}",
+  "id": "8820a6fa-d1cc-40a1-9eb9-f5b208ae4be4",
+  "dct_identifier_sm": [
+    "8820a6fa-d1cc-40a1-9eb9-f5b208ae4be4"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:30Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

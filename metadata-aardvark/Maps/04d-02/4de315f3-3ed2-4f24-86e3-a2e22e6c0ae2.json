@@ -1,0 +1,47 @@
+{
+  "dct_title_s": "Map of Austria - Umgebungskarte von Linz, 1920",
+  "dct_alternative_sm": [
+    "mdu-056985"
+  ],
+  "dct_description_sm": [
+    "Map of Austria - Umgebungskarte von Linz, 1920. Scale=1:30,000. Topography, towns, roads, main buildings in the Linz area"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_issued_s": "1920",
+  "gbl_indexYear_im": [
+    "1920"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "Asnæs Rev, Denmark"
+  ],
+  "locn_geometry": "ENVELOPE(14.3843,14.1609,48.3922,48.2283)",
+  "dcat_bbox": "ENVELOPE(14.3843,14.1609,48.3922,48.2283)",
+  "dcat_centroid": "48.310249999999996,14.2726",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/29/20/89/63/29208963-e2c2-4899-8954-df20ab2c05ee\"}",
+  "id": "4de315f3-3ed2-4f24-86e3-a2e22e6c0ae2",
+  "dct_identifier_sm": [
+    "4de315f3-3ed2-4f24-86e3-a2e22e6c0ae2"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:11Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

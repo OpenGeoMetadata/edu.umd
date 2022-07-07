@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of Austria - Steiermark Geological Map, 1921",
+  "dct_alternative_sm": [
+    "mdu-056986"
+  ],
+  "dct_description_sm": [
+    "Map of Austria - Steiermark Geological Map, 1921. Scale=1:300,000. Geology, rock types of Steiermark (state), Austria (in German)"
+  ],
+  "dct_publisher_sm": [
+    "F. Heritsch"
+  ],
+  "schema_provider_s": "University of Maryland",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Geological maps"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "dct_issued_s": "1921",
+  "gbl_indexYear_im": [
+    "1921"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "locn_geometry": "ENVELOPE(16.1353,13.5974,48.0182,46.4424)",
+  "dcat_bbox": "ENVELOPE(16.1353,13.5974,48.0182,46.4424)",
+  "dcat_centroid": "47.2303,14.86635",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/55/e0/e0/7e/55e0e07e-c6d9-4617-928a-212a9c2f08d9\"}",
+  "id": "ee9e987b-e17a-49df-87a9-47f0009c1166",
+  "dct_identifier_sm": [
+    "ee9e987b-e17a-49df-87a9-47f0009c1166"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:28Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

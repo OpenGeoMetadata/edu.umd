@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "56ed9e97-477f-4b56-b30d-aac288daa130",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Denmark - Helgenæs, 1900",
+  "dct_provenance_s": "University of Maryland",
+  "layer_slug_s": "56ed9e97-477f-4b56-b30d-aac288daa130",
+  "solr_geom": "ENVELOPE(10.5271,10.3762,56.152,56.0809)",
+  "solr_year_i": "1900",
+  "dc_description_s": "Map of Denmark - Helgenæs , 1900. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e3/57/a2/d1/e357a2d1-7127-4123-a6f9-37abb38e3a4e\"}",
+  "dct_spatial_sm": [
+    "Helgenæs, Denmark"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:37Z",
+  "dc_publisher_s": "Geodetic Institute",
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ]
+}
