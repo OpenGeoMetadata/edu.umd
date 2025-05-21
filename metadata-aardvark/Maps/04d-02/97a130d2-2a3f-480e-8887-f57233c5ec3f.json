@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Finland - XXXVI 12 , 1922. Scale=1:20,000. Topography, towns, roads, political boundaries for parts of Finland (Vaasa Vasa area)"
   ],
+  "dct_language_sm": [
+    "fin",
+    "swe"
+  ],
   "dct_publisher_sm": [
     "Board of Topographic, Mapping Surveys"
   ],
@@ -27,11 +31,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Vaasan Lääni, Finland"
+    "Finland--Vaasan Lääni"
   ],
-  "locn_geometry": "ENVELOPE(21.7547,21.5545,63.1,62.9982)",
-  "dcat_bbox": "ENVELOPE(21.7547,21.5545,63.1,62.9982)",
-  "dcat_centroid": "63.049099999999996,21.654600000000002",
+  "locn_geometry": "POLYGON((21.755 63.100, 21.555 63.100, 21.555 62.998, 21.755 62.998, 21.755 63.100))",
+  "dcat_bbox": "ENVELOPE(21.755,21.555,63.100,62.998)",
+  "dcat_centroid": "63.049,21.655",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/7d/93/96/99/7d939699-d5b7-4fb9-aaa1-1fdcc465a50e\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/7d/93/96/99/7d939699-d5b7-4fb9-aaa1-1fdcc465a50e\",\"label\":\"GeoTIFF\"}]}",
   "id": "97a130d2-2a3f-480e-8887-f57233c5ec3f",
   "dct_identifier_sm": [
     "97a130d2-2a3f-480e-8887-f57233c5ec3f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -31,11 +31,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "La Chorrera District, Panama"
+    "Panama--La Chorrera District"
   ],
-  "locn_geometry": "ENVELOPE(-79.8305,-79.9138,8.9153,8.8315)",
-  "dcat_bbox": "ENVELOPE(-79.8305,-79.9138,8.9153,8.8315)",
-  "dcat_centroid": "8.8734,-79.87215",
+  "locn_geometry": "POLYGON((-79.831 8.915, -79.914 8.915, -79.914 8.832, -79.831 8.832, -79.831 8.915))",
+  "dcat_bbox": "ENVELOPE(-79.831,-79.914,8.915,8.832)",
+  "dcat_centroid": "8.8735,-79.8725",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f1/c4/1d/64/f1c41d64-17f4-4c63-99e2-3ec2512b0053\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f1/c4/1d/64/f1c41d64-17f4-4c63-99e2-3ec2512b0053\",\"label\":\"GeoTIFF\"}]}",
   "id": "63396633-8fdb-4cbb-ae79-825ec133e065",
   "dct_identifier_sm": [
     "63396633-8fdb-4cbb-ae79-825ec133e065"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

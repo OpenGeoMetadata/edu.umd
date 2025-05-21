@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Gosselies, 1905. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1905 TO 1905]"
   ],
   "dct_spatial_sm": [
-    "Gosselies, Belgium"
+    "Belgium--Gosselies"
   ],
-  "locn_geometry": "ENVELOPE(4.6486,4.5371,50.196,50.1032)",
-  "dcat_bbox": "ENVELOPE(4.6486,4.5371,50.196,50.1032)",
-  "dcat_centroid": "50.1496,4.59285",
+  "locn_geometry": "POLYGON((4.649 50.196, 4.537 50.196, 4.537 50.103, 4.649 50.103, 4.649 50.196))",
+  "dcat_bbox": "ENVELOPE(4.649,4.537,50.196,50.103)",
+  "dcat_centroid": "50.1495,4.593",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/be/0b/10/b1/be0b10b1-f2f1-4cdf-bd17-3ee0d75c7205\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/be/0b/10/b1/be0b10b1-f2f1-4cdf-bd17-3ee0d75c7205\",\"label\":\"GeoTIFF\"}]}",
   "id": "baec256d-1a94-4a43-bdce-d4a407bbdf7d",
   "dct_identifier_sm": [
     "baec256d-1a94-4a43-bdce-d4a407bbdf7d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

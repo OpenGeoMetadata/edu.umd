@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Baraque-Cagnaux, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Baraque, Belgium"
+    "Belgium--Baraque"
   ],
-  "locn_geometry": "ENVELOPE(4.9806,4.8704,49.9253,49.8322)",
-  "dcat_bbox": "ENVELOPE(4.9806,4.8704,49.9253,49.8322)",
-  "dcat_centroid": "49.87875,4.9254999999999995",
+  "locn_geometry": "POLYGON((4.981 49.925, 4.870 49.925, 4.870 49.832, 4.981 49.832, 4.981 49.925))",
+  "dcat_bbox": "ENVELOPE(4.981,4.870,49.925,49.832)",
+  "dcat_centroid": "49.8785,4.9254999999999995",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5b/39/7d/0d/5b397d0d-9cc9-4fb9-a50e-cd88801fe82f\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5b/39/7d/0d/5b397d0d-9cc9-4fb9-a50e-cd88801fe82f\",\"label\":\"GeoTIFF\"}]}",
   "id": "07bd0537-9c6f-4448-88c7-8d8682cf6e01",
   "dct_identifier_sm": [
     "07bd0537-9c6f-4448-88c7-8d8682cf6e01"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

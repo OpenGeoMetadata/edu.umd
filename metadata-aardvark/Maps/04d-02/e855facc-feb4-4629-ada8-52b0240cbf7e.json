@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Seloignes, 1907. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Seloignes, Belgium"
+    "Belgium--Seloignes"
   ],
-  "locn_geometry": "ENVELOPE(4.4247,4.3131,50.1061,50.0135)",
-  "dcat_bbox": "ENVELOPE(4.4247,4.3131,50.1061,50.0135)",
-  "dcat_centroid": "50.059799999999996,4.3689",
+  "locn_geometry": "POLYGON((4.425 50.106, 4.313 50.106, 4.313 50.014, 4.425 50.014, 4.425 50.106))",
+  "dcat_bbox": "ENVELOPE(4.425,4.313,50.106,50.014)",
+  "dcat_centroid": "50.06,4.369",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/08/82/63/ea/088263ea-b182-4cc5-9b0f-b6d869e04778\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/08/82/63/ea/088263ea-b182-4cc5-9b0f-b6d869e04778\",\"label\":\"GeoTIFF\"}]}",
   "id": "e855facc-feb4-4629-ada8-52b0240cbf7e",
   "dct_identifier_sm": [
     "e855facc-feb4-4629-ada8-52b0240cbf7e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

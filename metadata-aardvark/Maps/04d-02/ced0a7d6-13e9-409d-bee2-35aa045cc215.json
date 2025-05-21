@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Habay-La-Neuve, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Habay-la-Neuve, Belgium"
+    "Belgium--Habay-la-Neuve"
   ],
-  "locn_geometry": "ENVELOPE(5.754,5.6456,49.7394,49.6456)",
-  "dcat_bbox": "ENVELOPE(5.754,5.6456,49.7394,49.6456)",
-  "dcat_centroid": "49.6925,5.6998",
+  "locn_geometry": "POLYGON((5.754 49.739, 5.646 49.739, 5.646 49.646, 5.754 49.646, 5.754 49.739))",
+  "dcat_bbox": "ENVELOPE(5.754,5.646,49.739,49.646)",
+  "dcat_centroid": "49.692499999999995,5.699999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/2b/a3/1a/6a/2ba31a6a-1ed7-405f-a589-a755b435a96d\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/2b/a3/1a/6a/2ba31a6a-1ed7-405f-a589-a755b435a96d\",\"label\":\"GeoTIFF\"}]}",
   "id": "ced0a7d6-13e9-409d-bee2-35aa045cc215",
   "dct_identifier_sm": [
     "ced0a7d6-13e9-409d-bee2-35aa045cc215"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

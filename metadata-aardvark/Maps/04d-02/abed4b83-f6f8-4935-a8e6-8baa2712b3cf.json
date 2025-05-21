@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Beelkow (Bielkowo), 1915. Scale=1:25,000. Topography, geology, rock types for parts of Poland (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1915 TO 1915]"
   ],
   "dct_spatial_sm": [
-    "Bielkowo, Poland"
+    "Poland--Bielkowo"
   ],
-  "locn_geometry": "ENVELOPE(21.1638,20.9971,55.4986,55.3984)",
-  "dcat_bbox": "ENVELOPE(21.1638,20.9971,55.4986,55.3984)",
-  "dcat_centroid": "55.4485,21.08045",
+  "locn_geometry": "POLYGON((21.164 55.499, 20.997 55.499, 20.997 55.398, 21.164 55.398, 21.164 55.499))",
+  "dcat_bbox": "ENVELOPE(21.164,20.997,55.499,55.398)",
+  "dcat_centroid": "55.4485,21.0805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/94/a8/85/cb/94a885cb-658c-43c2-bdcc-75ae73f7b2a7\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/94/a8/85/cb/94a885cb-658c-43c2-bdcc-75ae73f7b2a7\",\"label\":\"GeoTIFF\"}]}",
   "id": "abed4b83-f6f8-4935-a8e6-8baa2712b3cf",
   "dct_identifier_sm": [
     "abed4b83-f6f8-4935-a8e6-8baa2712b3cf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Asnæs Gd, 1909. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Asnæs, Denmark"
+    "Denmark--Asnæs"
   ],
-  "locn_geometry": "ENVELOPE(10.9736,10.8252,55.6776,55.6059)",
-  "dcat_bbox": "ENVELOPE(10.9736,10.8252,55.6776,55.6059)",
-  "dcat_centroid": "55.64175,10.8994",
+  "locn_geometry": "POLYGON((10.974 55.678, 10.825 55.678, 10.825 55.606, 10.974 55.606, 10.974 55.678))",
+  "dcat_bbox": "ENVELOPE(10.974,10.825,55.678,55.606)",
+  "dcat_centroid": "55.641999999999996,10.8995",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/6d/9c/51/0b/6d9c510b-54ea-4eb6-95e2-af7ad195ff4e\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/6d/9c/51/0b/6d9c510b-54ea-4eb6-95e2-af7ad195ff4e\",\"label\":\"GeoTIFF\"}]}",
   "id": "98d81db6-c199-4c3b-aa76-d171f3984841",
   "dct_identifier_sm": [
     "98d81db6-c199-4c3b-aa76-d171f3984841"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

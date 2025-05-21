@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Western Harbour, 1910. Scale=1:5,000. Streets, major buildings, port area for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Western Harbour, Egypt"
+    "Egypt--Western Harbour"
   ],
-  "locn_geometry": "ENVELOPE(29.856,29.8284,31.1908,31.1684)",
-  "dcat_bbox": "ENVELOPE(29.856,29.8284,31.1908,31.1684)",
-  "dcat_centroid": "31.1796,29.8422",
+  "locn_geometry": "POLYGON((29.856 31.191, 29.828 31.191, 29.828 31.168, 29.856 31.168, 29.856 31.191))",
+  "dcat_bbox": "ENVELOPE(29.856,29.828,31.191,31.168)",
+  "dcat_centroid": "31.179499999999997,29.842",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/86/f9/5a/35/86f95a35-0e19-4d04-bc74-adc82dc31f9e\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/86/f9/5a/35/86f95a35-0e19-4d04-bc74-adc82dc31f9e\",\"label\":\"GeoTIFF\"}]}",
   "id": "7ae02699-762c-48cd-b226-c954974ee5b5",
   "dct_identifier_sm": [
     "7ae02699-762c-48cd-b226-c954974ee5b5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

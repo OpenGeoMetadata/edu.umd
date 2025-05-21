@@ -4,7 +4,10 @@
     "mdu-057192"
   ],
   "dct_description_sm": [
-    "Map of Italy - Città Di Castello, 1900. Scale=1:100,000. Topography, towns, roads, political boundaries for parts of Italy "
+    "Map of Italy - Città Di Castello, 1900. Scale=1:100,000. Topography, towns, roads, political boundaries for parts of Italy"
+  ],
+  "dct_language_sm": [
+    "ita"
   ],
   "dct_publisher_sm": [
     "Istituto Geografico Militare"
@@ -27,11 +30,11 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Città di Castello, Italy"
+    "Italy--Città di Castello"
   ],
-  "locn_geometry": "ENVELOPE(12.4657,11.9353,43.6655,43.333)",
-  "dcat_bbox": "ENVELOPE(12.4657,11.9353,43.6655,43.333)",
-  "dcat_centroid": "43.49925,12.2005",
+  "locn_geometry": "POLYGON((12.466 43.666, 11.935 43.666, 11.935 43.333, 12.466 43.333, 12.466 43.666))",
+  "dcat_bbox": "ENVELOPE(12.466,11.935,43.666,43.333)",
+  "dcat_centroid": "43.4995,12.2005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1d/60/c0/0e/1d60c00e-0259-4145-89b6-e809b719c3da\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1d/60/c0/0e/1d60c00e-0259-4145-89b6-e809b719c3da\",\"label\":\"GeoTIFF\"}]}",
   "id": "bff54b06-f89f-47d3-ad99-751d1d6553cf",
   "dct_identifier_sm": [
     "bff54b06-f89f-47d3-ad99-751d1d6553cf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

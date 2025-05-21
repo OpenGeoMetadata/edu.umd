@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Hadra, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Al Ḩaḑrah, Egypt"
+    "Egypt--Al Ḩaḑrah"
   ],
-  "locn_geometry": "ENVELOPE(29.9347,29.9071,31.191,31.1685)",
-  "dcat_bbox": "ENVELOPE(29.9347,29.9071,31.191,31.1685)",
-  "dcat_centroid": "31.17975,29.9209",
+  "locn_geometry": "POLYGON((29.935 31.191, 29.907 31.191, 29.907 31.169, 29.935 31.169, 29.935 31.191))",
+  "dcat_bbox": "ENVELOPE(29.935,29.907,31.191,31.169)",
+  "dcat_centroid": "31.18,29.921",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f5/8c/83/c5/f58c83c5-4f2a-47e3-9235-579c4e9aab70\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f5/8c/83/c5/f58c83c5-4f2a-47e3-9235-579c4e9aab70\",\"label\":\"GeoTIFF\"}]}",
   "id": "710388b6-4bdb-424f-a71a-acad2bdd0f7e",
   "dct_identifier_sm": [
     "710388b6-4bdb-424f-a71a-acad2bdd0f7e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

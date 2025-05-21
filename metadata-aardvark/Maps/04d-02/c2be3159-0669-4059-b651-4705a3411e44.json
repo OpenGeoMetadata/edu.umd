@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Agersö (Agersø), 1908. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Agersø Sund, Denmark"
+    "Denmark--Agersø Sund"
   ],
-  "locn_geometry": "ENVELOPE(11.2634,11.1169,55.2701,55.1981)",
-  "dcat_bbox": "ENVELOPE(11.2634,11.1169,55.2701,55.1981)",
-  "dcat_centroid": "55.2341,11.19015",
+  "locn_geometry": "POLYGON((11.263 55.270, 11.117 55.270, 11.117 55.198, 11.263 55.198, 11.263 55.270))",
+  "dcat_bbox": "ENVELOPE(11.263,11.117,55.270,55.198)",
+  "dcat_centroid": "55.234,11.190000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1d/ee/98/0e/1dee980e-d865-4240-9b28-4d76c3a0adec\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1d/ee/98/0e/1dee980e-d865-4240-9b28-4d76c3a0adec\",\"label\":\"GeoTIFF\"}]}",
   "id": "c2be3159-0669-4059-b651-4705a3411e44",
   "dct_identifier_sm": [
     "c2be3159-0669-4059-b651-4705a3411e44"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

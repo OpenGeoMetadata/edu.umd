@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Rail Maps - Frankfurt, 1944. Scale=1:750,000. Railroads for parts of Germany, Austria, Belgium, France, Italy, Luxembourg, Switzerland"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -30,11 +33,11 @@
     "[1944 TO 1944]"
   ],
   "dct_spatial_sm": [
-    "Frankfurt (Oder), Germany"
+    "Germany--Frankfurt (Oder)"
   ],
-  "locn_geometry": "ENVELOPE(22.438,16.9417,56.0787,50.8498)",
-  "dcat_bbox": "ENVELOPE(22.438,16.9417,56.0787,50.8498)",
-  "dcat_centroid": "53.46425,19.68985",
+  "locn_geometry": "POLYGON((22.438 56.079, 16.942 56.079, 16.942 50.850, 22.438 50.850, 22.438 56.079))",
+  "dcat_bbox": "ENVELOPE(22.438,16.942,56.079,50.850)",
+  "dcat_centroid": "53.4645,19.689999999999998",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,12 +45,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/8e/57/4f/aa/8e574faa-d793-4bf1-87d8-5c0a01c75a70\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/8e/57/4f/aa/8e574faa-d793-4bf1-87d8-5c0a01c75a70\",\"label\":\"GeoTIFF\"}]}",
   "id": "9a815df3-a503-4dbe-b992-412eeeb6305a",
   "dct_identifier_sm": [
     "9a815df3-a503-4dbe-b992-412eeeb6305a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

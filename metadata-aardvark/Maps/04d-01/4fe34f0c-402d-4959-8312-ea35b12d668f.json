@@ -13,9 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "University of Maryland Digital Collections"
-  ],
   "dct_temporal_sm": [
     "1729"
   ],
@@ -26,12 +23,11 @@
     "[1729 TO 1729]"
   ],
   "dct_spatial_sm": [
-    "North America, undefined",
-    "Chesapeake Bay Basin, Maryland"
+    "Maryland--Chesapeake Bay Basin"
   ],
-  "locn_geometry": "ENVELOPE(172.3478,-25.0122,83.1355,5.4986)",
-  "dcat_bbox": "ENVELOPE(172.3478,-25.0122,83.1355,5.4986)",
-  "dcat_centroid": "44.317049999999995,73.6678",
+  "locn_geometry": "POLYGON((-77.72 40.18, -74.87 40.18, -74.87 36.88, -77.72 36.88, -77.72 40.18))",
+  "dcat_bbox": "ENVELOPE(-77.72,-74.87,40.18,36.88)",
+  "dcat_centroid": "38.53,-76.295",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,11 +36,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82073/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12527\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12527\",\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82073/info.json\"}",
   "id": "4fe34f0c-402d-4959-8312-ea35b12d668f",
   "dct_identifier_sm": [
     "4fe34f0c-402d-4959-8312-ea35b12d668f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

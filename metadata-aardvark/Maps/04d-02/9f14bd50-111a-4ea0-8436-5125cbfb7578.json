@@ -4,7 +4,10 @@
     "mdu-057150"
   ],
   "dct_description_sm": [
-    "Map of France - Geological Map - Montluçon , 1892. Scale=1:80,000. Topography, geology, rock types for parts of France "
+    "Map of France - Geological Map - Montluçon , 1892. Scale=1:80,000. Topography, geology, rock types for parts of France"
+  ],
+  "dct_language_sm": [
+    "fre"
   ],
   "dct_publisher_sm": [
     "Inspector General of Mines"
@@ -27,11 +30,11 @@
     "[1892 TO 1892]"
   ],
   "dct_spatial_sm": [
-    "Montluçon, France"
+    "France--Montluçon"
   ],
-  "locn_geometry": "ENVELOPE(-1.3921,-2.2591,46.5307,46.2007)",
-  "dcat_bbox": "ENVELOPE(-1.3921,-2.2591,46.5307,46.2007)",
-  "dcat_centroid": "46.365700000000004,-1.8256000000000001",
+  "locn_geometry": "POLYGON((-1.392 46.531, -2.259 46.531, -2.259 46.201, -1.392 46.201, -1.392 46.531))",
+  "dcat_bbox": "ENVELOPE(-1.392,-2.259,46.531,46.201)",
+  "dcat_centroid": "46.366,-1.8255",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a8/20/e6/c5/a820e6c5-3f23-4f55-83f0-2545a8176742\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a8/20/e6/c5/a820e6c5-3f23-4f55-83f0-2545a8176742\",\"label\":\"GeoTIFF\"}]}",
   "id": "9f14bd50-111a-4ea0-8436-5125cbfb7578",
   "dct_identifier_sm": [
     "9f14bd50-111a-4ea0-8436-5125cbfb7578"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

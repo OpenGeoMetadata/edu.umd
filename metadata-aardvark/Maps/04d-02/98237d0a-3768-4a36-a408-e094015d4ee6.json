@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Uggerlöse (Ugerløse), 1911. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Ugerløse, Denmark"
+    "Denmark--Ugerløse"
   ],
-  "locn_geometry": "ENVELOPE(11.7184,11.5714,55.6049,55.5323)",
-  "dcat_bbox": "ENVELOPE(11.7184,11.5714,55.6049,55.5323)",
-  "dcat_centroid": "55.5686,11.6449",
+  "locn_geometry": "POLYGON((11.718 55.605, 11.571 55.605, 11.571 55.532, 11.718 55.532, 11.718 55.605))",
+  "dcat_bbox": "ENVELOPE(11.718,11.571,55.605,55.532)",
+  "dcat_centroid": "55.5685,11.6445",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d1/25/86/ba/d12586ba-7632-418f-9eb5-aa3c19c659a8\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d1/25/86/ba/d12586ba-7632-418f-9eb5-aa3c19c659a8\",\"label\":\"GeoTIFF\"}]}",
   "id": "98237d0a-3768-4a36-a408-e094015d4ee6",
   "dct_identifier_sm": [
     "98237d0a-3768-4a36-a408-e094015d4ee6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

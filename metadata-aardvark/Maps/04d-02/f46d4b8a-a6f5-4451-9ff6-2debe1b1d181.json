@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Breakwater, 1910. Scale=1:5,000. Breakwater along Alexandria's Mediterranean coast. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Quarantine Breakwater, Egypt"
+    "Egypt--Quarantine Breakwater"
   ],
-  "locn_geometry": "ENVELOPE(29.856,29.8284,31.1908,31.1684)",
-  "dcat_bbox": "ENVELOPE(29.856,29.8284,31.1908,31.1684)",
-  "dcat_centroid": "31.1796,29.8422",
+  "locn_geometry": "POLYGON((29.856 31.191, 29.828 31.191, 29.828 31.168, 29.856 31.168, 29.856 31.191))",
+  "dcat_bbox": "ENVELOPE(29.856,29.828,31.191,31.168)",
+  "dcat_centroid": "31.179499999999997,29.842",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e3/9b/4b/a2/e39b4ba2-1d4c-4a60-b512-9836f03e4176\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e3/9b/4b/a2/e39b4ba2-1d4c-4a60-b512-9836f03e4176\",\"label\":\"GeoTIFF\"}]}",
   "id": "f46d4b8a-a6f5-4451-9ff6-2debe1b1d181",
   "dct_identifier_sm": [
     "f46d4b8a-a6f5-4451-9ff6-2debe1b1d181"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

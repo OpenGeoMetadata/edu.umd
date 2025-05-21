@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Sartine, 1907. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Sartine, Belgium"
+    "Belgium--Sartine"
   ],
-  "locn_geometry": "ENVELOPE(3.4111,3.2964,50.5508,50.4594)",
-  "dcat_bbox": "ENVELOPE(3.4111,3.2964,50.5508,50.4594)",
-  "dcat_centroid": "50.5051,3.35375",
+  "locn_geometry": "POLYGON((3.411 50.551, 3.296 50.551, 3.296 50.459, 3.411 50.459, 3.411 50.551))",
+  "dcat_bbox": "ENVELOPE(3.411,3.296,50.551,50.459)",
+  "dcat_centroid": "50.505,3.3535",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/2b/00/6d/95/2b006d95-2c38-4443-8fed-bf2cbd46fab6\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/2b/00/6d/95/2b006d95-2c38-4443-8fed-bf2cbd46fab6\",\"label\":\"GeoTIFF\"}]}",
   "id": "f5fff18b-1b62-4e5a-af54-435f4fe17f15",
   "dct_identifier_sm": [
     "f5fff18b-1b62-4e5a-af54-435f4fe17f15"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -34,24 +34,27 @@
   ],
   "dct_spatial_sm": [
     "Maryland",
-    "Mount Rainier, Maryland"
+    "Maryland--Mount Rainier"
   ],
-  "locn_geometry": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
-  "dcat_bbox": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
-  "dcat_centroid": "38.8048,-77.237",
+  "locn_geometry": "POLYGON((-79.488 39.723, -74.986 39.723, -74.986 37.887, -79.488 37.887, -79.488 39.723))",
+  "dcat_bbox": "ENVELOPE(-79.488,-74.986,39.723,37.887)",
+  "dcat_centroid": "38.805,-77.237",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "04d-01"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:684491/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/33415\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/33415\",\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:684491/info.json\"}",
   "id": "4ec08c3e-1a7e-454e-bf1f-2895d8c1f066",
   "dct_identifier_sm": [
     "4ec08c3e-1a7e-454e-bf1f-2895d8c1f066"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Oregaard (Oregård), 1906. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "Oregård, Denmark"
+    "Denmark--Oregård"
   ],
-  "locn_geometry": "ENVELOPE(11.8472,11.7027,55.062,54.9894)",
-  "dcat_bbox": "ENVELOPE(11.8472,11.7027,55.062,54.9894)",
-  "dcat_centroid": "55.0257,11.77495",
+  "locn_geometry": "POLYGON((11.847 55.062, 11.703 55.062, 11.703 54.989, 11.847 54.989, 11.847 55.062))",
+  "dcat_bbox": "ENVELOPE(11.847,11.703,55.062,54.989)",
+  "dcat_centroid": "55.025499999999994,11.774999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/95/14/93/ae/951493ae-1e65-4465-876b-7774dad9aa45\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/95/14/93/ae/951493ae-1e65-4465-876b-7774dad9aa45\",\"label\":\"GeoTIFF\"}]}",
   "id": "dce32de0-894c-4d8b-816a-1bd623d3962c",
   "dct_identifier_sm": [
     "dce32de0-894c-4d8b-816a-1bd623d3962c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

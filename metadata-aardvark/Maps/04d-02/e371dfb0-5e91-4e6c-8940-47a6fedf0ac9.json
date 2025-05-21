@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Asia - Southern Asia - Thailand, 1945. Scale=1:2,000,000. Topography, towns, roads for parts of Kampuchea, Myanmar, Thailand, Vietnam"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,14 @@
     "[1945 TO 1945]"
   ],
   "dct_spatial_sm": [
-    "Thailand"
+    "Thailand",
+    "Cambodia",
+    "Myanmar",
+    "Vietnam"
   ],
-  "locn_geometry": "ENVELOPE(110.0066,95.9087,16.2399,7.8483)",
-  "dcat_bbox": "ENVELOPE(110.0066,95.9087,16.2399,7.8483)",
-  "dcat_centroid": "12.0441,102.95765",
+  "locn_geometry": "POLYGON((110.007 16.240, 95.909 16.240, 95.909 7.848, 110.007 7.848, 110.007 16.240))",
+  "dcat_bbox": "ENVELOPE(110.007,95.909,16.240,7.848)",
+  "dcat_centroid": "12.043999999999999,102.958",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +45,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/66/b0/49/a2/66b049a2-738d-4066-a330-6402018f5593\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/66/b0/49/a2/66b049a2-738d-4066-a330-6402018f5593\",\"label\":\"GeoTIFF\"}]}",
   "id": "e371dfb0-5e91-4e6c-8940-47a6fedf0ac9",
   "dct_identifier_sm": [
     "e371dfb0-5e91-4e6c-8940-47a6fedf0ac9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

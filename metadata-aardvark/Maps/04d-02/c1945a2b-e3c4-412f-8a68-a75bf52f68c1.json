@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Rail Maps - Breslau (Wrocław), 1944. Scale=1:750,000. Railroads for parts of Austria, Czech Republic, Hungary, Poland, Slovakia. Incl. insets of Berlin, Ruhr Valley, Silesia"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -30,11 +33,11 @@
     "[1944 TO 1944]"
   ],
   "dct_spatial_sm": [
-    "Wrocław, Poland"
+    "Poland--Wrocław"
   ],
-  "locn_geometry": "ENVELOPE(16.271,10.4339,51.415,46.1219)",
-  "dcat_bbox": "ENVELOPE(16.271,10.4339,51.415,46.1219)",
-  "dcat_centroid": "48.76845,13.352450000000001",
+  "locn_geometry": "POLYGON((16.271 51.415, 10.434 51.415, 10.434 46.122, 16.271 46.122, 16.271 51.415))",
+  "dcat_bbox": "ENVELOPE(16.271,10.434,51.415,46.122)",
+  "dcat_centroid": "48.7685,13.3525",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,12 +45,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/12/7a/ac/4e/127aac4e-8b4e-492d-bcac-d62cf098e7c6\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/12/7a/ac/4e/127aac4e-8b4e-492d-bcac-d62cf098e7c6\",\"label\":\"GeoTIFF\"}]}",
   "id": "c1945a2b-e3c4-412f-8a68-a75bf52f68c1",
   "dct_identifier_sm": [
     "c1945a2b-e3c4-412f-8a68-a75bf52f68c1"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

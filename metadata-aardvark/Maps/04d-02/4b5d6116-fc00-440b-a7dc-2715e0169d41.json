@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Italy - Spaccaforno (Ispica) , 1943. Scale=1:25,000. Topography, towns, roads, political boundaries for parts of Italy (Sicily)"
   ],
+  "dct_language_sm": [
+    "ita"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,11 @@
     "[1943 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Ispica, Italy"
+    "Italy--Ispica"
   ],
-  "locn_geometry": "ENVELOPE(14.952,14.8265,36.8351,36.7517)",
-  "dcat_bbox": "ENVELOPE(14.952,14.8265,36.8351,36.7517)",
-  "dcat_centroid": "36.7934,14.88925",
+  "locn_geometry": "POLYGON((14.952 36.835, 14.826 36.835, 14.826 36.752, 14.952 36.752, 14.952 36.835))",
+  "dcat_bbox": "ENVELOPE(14.952,14.826,36.835,36.752)",
+  "dcat_centroid": "36.7935,14.889",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/41/38/c8/a3/4138c8a3-95f5-4e00-9085-139cf84f0744\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/41/38/c8/a3/4138c8a3-95f5-4e00-9085-139cf84f0744\",\"label\":\"GeoTIFF\"}]}",
   "id": "4b5d6116-fc00-440b-a7dc-2715e0169d41",
   "dct_identifier_sm": [
     "4b5d6116-fc00-440b-a7dc-2715e0169d41"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

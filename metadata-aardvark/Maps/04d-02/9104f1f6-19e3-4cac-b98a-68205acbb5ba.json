@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Tunö (Tunø), 1922. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Tunø Røn, Denmark"
+    "Denmark--Tunø Røn"
   ],
-  "locn_geometry": "ENVELOPE(8.7634,8.6138,54.9211,54.8521)",
-  "dcat_bbox": "ENVELOPE(8.7634,8.6138,54.9211,54.8521)",
-  "dcat_centroid": "54.8866,8.688600000000001",
+  "locn_geometry": "POLYGON((8.763 54.921, 8.614 54.921, 8.614 54.852, 8.763 54.852, 8.763 54.921))",
+  "dcat_bbox": "ENVELOPE(8.763,8.614,54.921,54.852)",
+  "dcat_centroid": "54.8865,8.688500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/82/65/62/e6/826562e6-9e8c-44b2-85f0-7d4f86d38dcc\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/82/65/62/e6/826562e6-9e8c-44b2-85f0-7d4f86d38dcc\",\"label\":\"GeoTIFF\"}]}",
   "id": "9104f1f6-19e3-4cac-b98a-68205acbb5ba",
   "dct_identifier_sm": [
     "9104f1f6-19e3-4cac-b98a-68205acbb5ba"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

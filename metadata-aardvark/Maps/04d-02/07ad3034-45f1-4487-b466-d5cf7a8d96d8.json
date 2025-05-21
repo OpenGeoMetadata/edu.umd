@@ -4,7 +4,7 @@
     "mdu-057204"
   ],
   "dct_description_sm": [
-    "Map of Slovakia - Senec, 1919. Scale=1:75,000. Topography, towns, roads, political boundaries for parts of Slovakia "
+    "Map of Slovakia - Senec, 1919. Scale=1:75,000. Topography, towns, roads, political boundaries for parts of Slovakia"
   ],
   "dct_language_sm": [
     "ger",
@@ -31,11 +31,11 @@
     "[1919 TO 1919]"
   ],
   "dct_spatial_sm": [
-    "Senec, Slovakia"
+    "Slovakia--Senec"
   ],
-  "locn_geometry": "ENVELOPE(17.8316,17.3337,48.26,47.9881)",
-  "dcat_bbox": "ENVELOPE(17.8316,17.3337,48.26,47.9881)",
-  "dcat_centroid": "48.12405,17.58265",
+  "locn_geometry": "POLYGON((17.832 48.260, 17.334 48.260, 17.334 47.988, 17.832 47.988, 17.832 48.260))",
+  "dcat_bbox": "ENVELOPE(17.832,17.334,48.260,47.988)",
+  "dcat_centroid": "48.123999999999995,17.583",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/cb/72/67/e8/cb7267e8-cc81-4c61-b617-4d02b25ec745\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/cb/72/67/e8/cb7267e8-cc81-4c61-b617-4d02b25ec745\",\"label\":\"GeoTIFF\"}]}",
   "id": "07ad3034-45f1-4487-b466-d5cf7a8d96d8",
   "dct_identifier_sm": [
     "07ad3034-45f1-4487-b466-d5cf7a8d96d8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Grupont, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Grupont, Belgium"
+    "Belgium--Grupont"
   ],
-  "locn_geometry": "ENVELOPE(5.541,5.4315,50.1014,50.0077)",
-  "dcat_bbox": "ENVELOPE(5.541,5.4315,50.1014,50.0077)",
-  "dcat_centroid": "50.05455,5.48625",
+  "locn_geometry": "POLYGON((5.541 50.101, 5.431 50.101, 5.431 50.008, 5.541 50.008, 5.541 50.101))",
+  "dcat_bbox": "ENVELOPE(5.541,5.431,50.101,50.008)",
+  "dcat_centroid": "50.054500000000004,5.486000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f4/a3/5f/21/f4a35f21-9975-466a-8869-e7bc7bf3d338\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f4/a3/5f/21/f4a35f21-9975-466a-8869-e7bc7bf3d338\",\"label\":\"GeoTIFF\"}]}",
   "id": "4de4e544-9383-4017-9720-9761d9873d95",
   "dct_identifier_sm": [
     "4de4e544-9383-4017-9720-9761d9873d95"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

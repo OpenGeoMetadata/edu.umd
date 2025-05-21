@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Italy - Scoglitti , 1943. Scale=1:25,000. Topography, towns, roads, political boundaries for parts of Italy (Sicily)"
   ],
+  "dct_language_sm": [
+    "ita"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,11 @@
     "[1943 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Scoglitti, Italy"
+    "Italy--Scoglitti"
   ],
-  "locn_geometry": "ENVELOPE(14.4521,14.3257,37.0017,36.9183)",
-  "dcat_bbox": "ENVELOPE(14.4521,14.3257,37.0017,36.9183)",
-  "dcat_centroid": "36.96,14.3889",
+  "locn_geometry": "POLYGON((14.452 37.002, 14.326 37.002, 14.326 36.918, 14.452 36.918, 14.452 37.002))",
+  "dcat_bbox": "ENVELOPE(14.452,14.326,37.002,36.918)",
+  "dcat_centroid": "36.96,14.389",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9f/e1/4e/c8/9fe14ec8-202a-4eaa-bf1c-5bf65bd6715f\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9f/e1/4e/c8/9fe14ec8-202a-4eaa-bf1c-5bf65bd6715f\",\"label\":\"GeoTIFF\"}]}",
   "id": "ec9ff423-84d7-4dc6-9511-1d0dbecad6ef",
   "dct_identifier_sm": [
     "ec9ff423-84d7-4dc6-9511-1d0dbecad6ef"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of France - Mirecourt, 1910. Scale=1:50,000. Topography, towns, roads, political boundaries for parts of France"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Service Géographique de L'Armée"
   ],
@@ -27,11 +30,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Mirecourt, France"
+    "France--Mirecourt"
   ],
-  "locn_geometry": "ENVELOPE(5.7338,5.7328,48.4497,48.4307)",
-  "dcat_bbox": "ENVELOPE(5.7338,5.7328,48.4497,48.4307)",
-  "dcat_centroid": "48.440200000000004,5.7333",
+  "locn_geometry": "POLYGON((6.081 48.315, 6.157 48.315, 6.157 48.272, 6.081 48.272, 6.081 48.315))",
+  "dcat_bbox": "ENVELOPE(6.081,6.157,48.315,48.272)",
+  "dcat_centroid": "48.293499999999995,6.119",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d6/bd/4b/02/d6bd4b02-541e-4ce1-a683-47f9ebc4ea89\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d6/bd/4b/02/d6bd4b02-541e-4ce1-a683-47f9ebc4ea89\",\"label\":\"GeoTIFF\"}]}",
   "id": "d6c5a303-857c-49c6-bc28-a271788e8b4e",
   "dct_identifier_sm": [
     "d6c5a303-857c-49c6-bc28-a271788e8b4e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

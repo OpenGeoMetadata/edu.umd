@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Great Britain - Stoke on Trent , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of England"
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Ordnance Survey"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Stoke-on-Trent, United Kingdom"
+    "United Kingdom--Stoke-on-Trent"
   ],
-  "locn_geometry": "ENVELOPE(-2.7028,-3.3517,53.095,52.8332)",
-  "dcat_bbox": "ENVELOPE(-2.7028,-3.3517,53.095,52.8332)",
-  "dcat_centroid": "52.9641,-3.02725",
+  "locn_geometry": "POLYGON((-2.703 53.095, -3.352 53.095, -3.352 52.833, -2.703 52.833, -2.703 53.095))",
+  "dcat_bbox": "ENVELOPE(-2.703,-3.352,53.095,52.833)",
+  "dcat_centroid": "52.964,-3.0275",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/51/c2/cd/22/51c2cd22-3913-44a2-88a9-cdcfc69d1444\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/51/c2/cd/22/51c2cd22-3913-44a2-88a9-cdcfc69d1444\",\"label\":\"GeoTIFF\"}]}",
   "id": "eb1f97a9-6da6-4875-be85-1b36de529aee",
   "dct_identifier_sm": [
     "eb1f97a9-6da6-4875-be85-1b36de529aee"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

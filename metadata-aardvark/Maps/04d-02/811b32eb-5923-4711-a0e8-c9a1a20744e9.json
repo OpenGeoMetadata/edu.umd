@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Rail Maps - Hamburg, 1945. Scale=1:750,000. Railroads for parts of Germany, Belgium, Denmark, Netherlands"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -30,11 +33,11 @@
     "[1945 TO 1945]"
   ],
   "dct_spatial_sm": [
-    "Hamburg, Germany"
+    "Germany--Hamburg"
   ],
-  "locn_geometry": "ENVELOPE(14.6789,14.4824,53.3975,53.2991)",
-  "dcat_bbox": "ENVELOPE(14.6789,14.4824,53.3975,53.2991)",
-  "dcat_centroid": "53.3483,14.58065",
+  "locn_geometry": "POLYGON((14.679 53.398, 14.482 53.398, 14.482 53.299, 14.679 53.299, 14.679 53.398))",
+  "dcat_bbox": "ENVELOPE(14.679,14.482,53.398,53.299)",
+  "dcat_centroid": "53.3485,14.5805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,12 +45,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/02/5e/f4/03/025ef403-47b8-4be2-bcf7-25f6ff9a950a\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/02/5e/f4/03/025ef403-47b8-4be2-bcf7-25f6ff9a950a\",\"label\":\"GeoTIFF\"}]}",
   "id": "811b32eb-5923-4711-a0e8-c9a1a20744e9",
   "dct_identifier_sm": [
     "811b32eb-5923-4711-a0e8-c9a1a20744e9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Europe - Climate Zones, August , 1943. Scale=1:18,600,000. Monthly average continental climatic conditions"
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -29,9 +32,9 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "locn_geometry": "ENVELOPE(50.4136,-36.0373,72.7715,28.6448)",
-  "dcat_bbox": "ENVELOPE(50.4136,-36.0373,72.7715,28.6448)",
-  "dcat_centroid": "50.70815,7.18815",
+  "locn_geometry": "POLYGON((-36.037 72.772, 50.414 72.772, 50.414 28.645, -36.037 28.645, -36.037 72.772))",
+  "dcat_bbox": "ENVELOPE(-36.037,50.414,72.772,28.645)",
+  "dcat_centroid": "50.7085,7.188500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/03/44/51/df/034451df-3099-4865-b362-ba2b1edcf006\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/03/44/51/df/034451df-3099-4865-b362-ba2b1edcf006\",\"label\":\"GeoTIFF\"}]}",
   "id": "a6840b20-6c0b-4551-856e-a9d05e742527",
   "dct_identifier_sm": [
     "a6840b20-6c0b-4551-856e-a9d05e742527"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

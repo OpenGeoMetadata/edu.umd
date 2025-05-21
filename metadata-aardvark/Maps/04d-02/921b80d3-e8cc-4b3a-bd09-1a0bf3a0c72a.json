@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Bov, 1921. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Bylderup-Bov, Denmark"
+    "Denmark--Bylderup-Bov"
   ],
-  "locn_geometry": "ENVELOPE(10.376,10.2277,55.3399,55.2691)",
-  "dcat_bbox": "ENVELOPE(10.376,10.2277,55.3399,55.2691)",
-  "dcat_centroid": "55.304500000000004,10.30185",
+  "locn_geometry": "POLYGON((10.376 55.340, 10.228 55.340, 10.228 55.269, 10.376 55.269, 10.376 55.340))",
+  "dcat_bbox": "ENVELOPE(10.376,10.228,55.340,55.269)",
+  "dcat_centroid": "55.304500000000004,10.302",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/41/e3/6d/0a/41e36d0a-49c0-47bc-9d18-e704e8f58f47\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/41/e3/6d/0a/41e36d0a-49c0-47bc-9d18-e704e8f58f47\",\"label\":\"GeoTIFF\"}]}",
   "id": "921b80d3-e8cc-4b3a-bd09-1a0bf3a0c72a",
   "dct_identifier_sm": [
     "921b80d3-e8cc-4b3a-bd09-1a0bf3a0c72a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

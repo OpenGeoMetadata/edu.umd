@@ -4,7 +4,10 @@
     "mdu-057151"
   ],
   "dct_description_sm": [
-    "Map of France - Geological Map - Tour de Chassiron , 1886. Scale=1:80,000. Topography, geology, rock types for parts of France "
+    "Map of France - Geological Map - Tour de Chassiron , 1886. Scale=1:80,000. Topography, geology, rock types for parts of France"
+  ],
+  "dct_language_sm": [
+    "fre"
   ],
   "dct_publisher_sm": [
     "Inspector General of Mines"
@@ -27,11 +30,11 @@
     "[1886 TO 1886]"
   ],
   "dct_spatial_sm": [
-    "Pointe de Chassiron, France"
+    "France--Pointe de Chassiron"
   ],
-  "locn_geometry": "ENVELOPE(2.7291,2.026,46.6185,46.2586)",
-  "dcat_bbox": "ENVELOPE(2.7291,2.026,46.6185,46.2586)",
-  "dcat_centroid": "46.43855,2.37755",
+  "locn_geometry": "POLYGON((2.729 46.618, 2.026 46.618, 2.026 46.259, 2.729 46.259, 2.729 46.618))",
+  "dcat_bbox": "ENVELOPE(2.729,2.026,46.618,46.259)",
+  "dcat_centroid": "46.438500000000005,2.3775",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9a/e4/1c/45/9ae41c45-1bec-49cd-9703-1e1e9bd094f7\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9a/e4/1c/45/9ae41c45-1bec-49cd-9703-1e1e9bd094f7\",\"label\":\"GeoTIFF\"}]}",
   "id": "75053615-4b14-48a7-979f-1d1d16167747",
   "dct_identifier_sm": [
     "75053615-4b14-48a7-979f-1d1d16167747"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

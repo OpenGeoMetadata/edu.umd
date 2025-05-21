@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Italy - Monte Pancali (Mount Pancali) , 1943. Scale=1:25,000. Topography, towns, roads, political boundaries for parts of Italy (Sicily)"
   ],
+  "dct_language_sm": [
+    "ita"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,11 @@
     "[1943 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Monte Pancali, Italy"
+    "Italy--Monte Pancali"
   ],
-  "locn_geometry": "ENVELOPE(-2.0618,-2.7029,52.8364,52.5711)",
-  "dcat_bbox": "ENVELOPE(-2.0618,-2.7029,52.8364,52.5711)",
-  "dcat_centroid": "52.70375,-2.3823499999999997",
+  "locn_geometry": "POLYGON((-2.062 52.836, -2.703 52.836, -2.703 52.571, -2.062 52.571, -2.062 52.836))",
+  "dcat_bbox": "ENVELOPE(-2.062,-2.703,52.836,52.571)",
+  "dcat_centroid": "52.7035,-2.3825",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/49/64/c7/61/4964c761-bce5-43f4-9db6-1dbd9f30b4ef\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/49/64/c7/61/4964c761-bce5-43f4-9db6-1dbd9f30b4ef\",\"label\":\"GeoTIFF\"}]}",
   "id": "3a46e9b1-7990-434b-887a-c764a2ef51ab",
   "dct_identifier_sm": [
     "3a46e9b1-7990-434b-887a-c764a2ef51ab"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

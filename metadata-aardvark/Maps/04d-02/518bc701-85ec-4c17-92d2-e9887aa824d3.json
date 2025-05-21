@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Schmelz (Smiltyné), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Lithuania (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Mark Schmelz, Germany"
+    "Germany--Mark Schmelz"
   ],
-  "locn_geometry": "ENVELOPE(21.1636,20.9969,55.7986,55.6984)",
-  "dcat_bbox": "ENVELOPE(21.1636,20.9969,55.7986,55.6984)",
-  "dcat_centroid": "55.7485,21.08025",
+  "locn_geometry": "POLYGON((21.164 55.799, 20.997 55.799, 20.997 55.698, 21.164 55.698, 21.164 55.799))",
+  "dcat_bbox": "ENVELOPE(21.164,20.997,55.799,55.698)",
+  "dcat_centroid": "55.7485,21.0805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c3/9c/60/cf/c39c60cf-1fd7-45a2-bcf4-4b225fdedf41\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c3/9c/60/cf/c39c60cf-1fd7-45a2-bcf4-4b225fdedf41\",\"label\":\"GeoTIFF\"}]}",
   "id": "518bc701-85ec-4c17-92d2-e9887aa824d3",
   "dct_identifier_sm": [
     "518bc701-85ec-4c17-92d2-e9887aa824d3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

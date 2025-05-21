@@ -4,7 +4,10 @@
     "mdu-057193"
   ],
   "dct_description_sm": [
-    "Map of Italy - Gubbio, 1900. Scale=1:100,000. Topography, towns, roads, political boundaries for parts of Italy "
+    "Map of Italy - Gubbio, 1900. Scale=1:100,000. Topography, towns, roads, political boundaries for parts of Italy"
+  ],
+  "dct_language_sm": [
+    "ita"
   ],
   "dct_publisher_sm": [
     "Istituto Geografico Militare"
@@ -27,11 +30,11 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Gubbio, Italy"
+    "Italy--Gubbio"
   ],
-  "locn_geometry": "ENVELOPE(12.963,12.438,43.6656,43.3329)",
-  "dcat_bbox": "ENVELOPE(12.963,12.438,43.6656,43.3329)",
-  "dcat_centroid": "43.49925,12.7005",
+  "locn_geometry": "POLYGON((12.963 43.666, 12.438 43.666, 12.438 43.333, 12.963 43.333, 12.963 43.666))",
+  "dcat_bbox": "ENVELOPE(12.963,12.438,43.666,43.333)",
+  "dcat_centroid": "43.4995,12.7005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e6/09/c7/1c/e609c71c-aa54-4ac6-bcc0-eb00980bddb2\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e6/09/c7/1c/e609c71c-aa54-4ac6-bcc0-eb00980bddb2\",\"label\":\"GeoTIFF\"}]}",
   "id": "2b01be1d-c7e1-48af-83c4-d66f82fccebf",
   "dct_identifier_sm": [
     "2b01be1d-c7e1-48af-83c4-d66f82fccebf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Italy - Dirillo , 1943. Scale=1:25,000. Topography, towns, roads, political boundaries for parts of Italy (Sicily)"
   ],
+  "dct_language_sm": [
+    "ita"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,11 @@
     "[1943 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Fiume Acate, Italy"
+    "Italy--Fiume Acate"
   ],
-  "locn_geometry": "ENVELOPE(15.077,14.9517,37.2514,37.1679)",
-  "dcat_bbox": "ENVELOPE(15.077,14.9517,37.2514,37.1679)",
-  "dcat_centroid": "37.209649999999996,15.01435",
+  "locn_geometry": "POLYGON((15.077 37.251, 14.952 37.251, 14.952 37.168, 15.077 37.168, 15.077 37.251))",
+  "dcat_bbox": "ENVELOPE(15.077,14.952,37.251,37.168)",
+  "dcat_centroid": "37.2095,15.0145",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/39/d3/2d/5d/39d32d5d-0de4-49f5-95a1-77958559682b\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/39/d3/2d/5d/39d32d5d-0de4-49f5-95a1-77958559682b\",\"label\":\"GeoTIFF\"}]}",
   "id": "409e6800-4b7f-4bc4-9ab0-337f206ee128",
   "dct_identifier_sm": [
     "409e6800-4b7f-4bc4-9ab0-337f206ee128"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Italy - Scìcli (Scicli)  , 1943. Scale=1:25,000. Topography, towns, roads, political boundaries for parts of Italy (Sicily)"
   ],
+  "dct_language_sm": [
+    "ita"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,11 @@
     "[1943 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Scicli, Italy"
+    "Italy--Scicli"
   ],
-  "locn_geometry": "ENVELOPE(14.827,14.6976,36.8351,36.7518)",
-  "dcat_bbox": "ENVELOPE(14.827,14.6976,36.8351,36.7518)",
-  "dcat_centroid": "36.79345,14.7623",
+  "locn_geometry": "POLYGON((14.827 36.835, 14.698 36.835, 14.698 36.752, 14.827 36.752, 14.827 36.835))",
+  "dcat_bbox": "ENVELOPE(14.827,14.698,36.835,36.752)",
+  "dcat_centroid": "36.7935,14.7625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/63/0c/16/c7/630c16c7-0ace-480e-93bb-542f91a5488a\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/63/0c/16/c7/630c16c7-0ace-480e-93bb-542f91a5488a\",\"label\":\"GeoTIFF\"}]}",
   "id": "c9dbdeeb-2fa7-43d6-9c72-6d0cb51c90dc",
   "dct_identifier_sm": [
     "c9dbdeeb-2fa7-43d6-9c72-6d0cb51c90dc"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

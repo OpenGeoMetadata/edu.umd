@@ -4,7 +4,10 @@
     "mdu-057147"
   ],
   "dct_description_sm": [
-    "Map of France - Geological Map - Bressuire, 1899. Scale=1:80,000. Topography, geology, rock types for parts of France "
+    "Map of France - Geological Map - Bressuire, 1899. Scale=1:80,000. Topography, geology, rock types for parts of France"
+  ],
+  "dct_language_sm": [
+    "fre"
   ],
   "dct_publisher_sm": [
     "Inspector General of Mines"
@@ -27,11 +30,11 @@
     "[1899 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Bressuire, France"
+    "France--Bressuire"
   ],
-  "locn_geometry": "ENVELOPE(-0.5836,-1.452,46.9186,46.5833)",
-  "dcat_bbox": "ENVELOPE(-0.5836,-1.452,46.9186,46.5833)",
-  "dcat_centroid": "46.75095,-1.0178",
+  "locn_geometry": "POLYGON((-0.584 46.919, -1.452 46.919, -1.452 46.583, -0.584 46.583, -0.584 46.919))",
+  "dcat_bbox": "ENVELOPE(-0.584,-1.452,46.919,46.583)",
+  "dcat_centroid": "46.751,-1.018",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/59/41/b9/d2/5941b9d2-7064-499d-9f46-ada3bc0d17ac\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/59/41/b9/d2/5941b9d2-7064-499d-9f46-ada3bc0d17ac\",\"label\":\"GeoTIFF\"}]}",
   "id": "93acc4f8-677c-4ca0-8780-a7e5dc6361b0",
   "dct_identifier_sm": [
     "93acc4f8-677c-4ca0-8780-a7e5dc6361b0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Vaalse (Vålse), 1901. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1901 TO 1901]"
   ],
   "dct_spatial_sm": [
-    "Vålse Vesterskov, Denmark"
+    "Denmark--Vålse Vesterskov"
   ],
-  "locn_geometry": "ENVELOPE(11.8446,11.7002,55.9944,55.9218)",
-  "dcat_bbox": "ENVELOPE(11.8446,11.7002,55.9944,55.9218)",
-  "dcat_centroid": "55.9581,11.772400000000001",
+  "locn_geometry": "POLYGON((11.845 55.994, 11.700 55.994, 11.700 55.922, 11.845 55.922, 11.845 55.994))",
+  "dcat_bbox": "ENVELOPE(11.845,11.700,55.994,55.922)",
+  "dcat_centroid": "55.958,11.7725",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/42/ca/31/5d/42ca315d-b7b4-4c62-a5f7-29b4a2b567f6\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/42/ca/31/5d/42ca315d-b7b4-4c62-a5f7-29b4a2b567f6\",\"label\":\"GeoTIFF\"}]}",
   "id": "c1753fd2-90c8-48dc-ad2d-c047a0f63802",
   "dct_identifier_sm": [
     "c1753fd2-90c8-48dc-ad2d-c047a0f63802"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

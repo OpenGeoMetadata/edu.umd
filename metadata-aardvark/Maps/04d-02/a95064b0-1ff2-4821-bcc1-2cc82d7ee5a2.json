@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Nuzha, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Alexandria, Egypt"
+    "Egypt--Alexandria"
   ],
-  "locn_geometry": "ENVELOPE(29.9347,29.907,31.2135,31.1911)",
-  "dcat_bbox": "ENVELOPE(29.9347,29.907,31.2135,31.1911)",
-  "dcat_centroid": "31.2023,29.92085",
+  "locn_geometry": "POLYGON((29.935 31.213, 29.907 31.213, 29.907 31.191, 29.935 31.191, 29.935 31.213))",
+  "dcat_bbox": "ENVELOPE(29.935,29.907,31.213,31.191)",
+  "dcat_centroid": "31.201999999999998,29.921",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/21/8b/ec/2a/218bec2a-2a63-4472-9ec9-51ac50e4117e\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/21/8b/ec/2a/218bec2a-2a63-4472-9ec9-51ac50e4117e\",\"label\":\"GeoTIFF\"}]}",
   "id": "a95064b0-1ff2-4821-bcc1-2cc82d7ee5a2",
   "dct_identifier_sm": [
     "a95064b0-1ff2-4821-bcc1-2cc82d7ee5a2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Mex, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Al Maks, Egypt"
+    "Egypt--Al Maks"
   ],
-  "locn_geometry": "ENVELOPE(29.8562,29.8285,31.1457,31.1233)",
-  "dcat_bbox": "ENVELOPE(29.8562,29.8285,31.1457,31.1233)",
-  "dcat_centroid": "31.134500000000003,29.84235",
+  "locn_geometry": "POLYGON((29.856 31.146, 29.828 31.146, 29.828 31.123, 29.856 31.123, 29.856 31.146))",
+  "dcat_bbox": "ENVELOPE(29.856,29.828,31.146,31.123)",
+  "dcat_centroid": "31.134500000000003,29.842",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a9/3b/87/eb/a93b87eb-ee4f-4e3d-9fcd-671d378648f1\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a9/3b/87/eb/a93b87eb-ee4f-4e3d-9fcd-671d378648f1\",\"label\":\"GeoTIFF\"}]}",
   "id": "db7f5f0e-b465-4385-a7cd-9acc782c73e2",
   "dct_identifier_sm": [
     "db7f5f0e-b465-4385-a7cd-9acc782c73e2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

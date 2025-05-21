@@ -13,9 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "University of Maryland Digital Collections"
-  ],
   "dct_temporal_sm": [
     "1801"
   ],
@@ -26,12 +23,12 @@
     "[1801 TO 1801]"
   ],
   "dct_spatial_sm": [
-    "Baltimore, Maryland",
+    "Maryland--Baltimore",
     "Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
-  "dcat_bbox": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
-  "dcat_centroid": "39.2847,-76.62049999999999",
+  "locn_geometry": "POLYGON((-76.712 39.372, -76.529 39.372, -76.529 39.197, -76.712 39.197, -76.712 39.372))",
+  "dcat_bbox": "ENVELOPE(-76.712,-76.529,39.372,39.197)",
+  "dcat_centroid": "39.2845,-76.62049999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82113/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12539\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12539\",\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82113/info.json\"}",
   "id": "2a59d40c-967e-4055-a7ca-3d5ba1f5a876",
   "dct_identifier_sm": [
     "2a59d40c-967e-4055-a7ca-3d5ba1f5a876"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

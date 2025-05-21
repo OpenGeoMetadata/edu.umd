@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Klemenskirke (Klemensker), 1914. Scale=1:20,000. Topography, towns, roads for parts of Denmark (Bornholm Island)"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "Klemensker, Denmark"
+    "Denmark--Klemensker"
   ],
-  "locn_geometry": "ENVELOPE(14.7774,14.6312,55.2271,55.1454)",
-  "dcat_bbox": "ENVELOPE(14.7774,14.6312,55.2271,55.1454)",
-  "dcat_centroid": "55.18625,14.7043",
+  "locn_geometry": "POLYGON((14.777 55.227, 14.631 55.227, 14.631 55.145, 14.777 55.145, 14.777 55.227))",
+  "dcat_bbox": "ENVELOPE(14.777,14.631,55.227,55.145)",
+  "dcat_centroid": "55.186,14.704",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a6/30/17/72/a6301772-b88f-4638-8f22-aa35f5a79ddc\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a6/30/17/72/a6301772-b88f-4638-8f22-aa35f5a79ddc\",\"label\":\"GeoTIFF\"}]}",
   "id": "c3b5ab92-8111-4aed-826f-e2d3afb5ef3c",
   "dct_identifier_sm": [
     "c3b5ab92-8111-4aed-826f-e2d3afb5ef3c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

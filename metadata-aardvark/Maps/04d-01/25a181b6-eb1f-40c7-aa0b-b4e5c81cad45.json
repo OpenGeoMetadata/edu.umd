@@ -18,8 +18,7 @@
   ],
   "dcat_keyword_sm": [
     "Streets",
-    "Water supply",
-    "University of Maryland Digital Collections"
+    "Water supply"
   ],
   "dct_temporal_sm": [
     "1921"
@@ -31,25 +30,28 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Mount Rainier, Maryland",
+    "Maryland--Mount Rainier",
     "Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-76.9739,-76.9557,38.954,38.9316)",
-  "dcat_bbox": "ENVELOPE(-76.9739,-76.9557,38.954,38.9316)",
-  "dcat_centroid": "38.942800000000005,-76.9648",
+  "locn_geometry": "POLYGON((-76.974 38.954, -76.956 38.954, -76.956 38.932, -76.974 38.932, -76.974 38.954))",
+  "dcat_bbox": "ENVELOPE(-76.974,-76.956,38.954,38.932)",
+  "dcat_centroid": "38.943,-76.965",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "04d-01"
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:684495/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/33417\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/33417\",\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:684495/info.json\"}",
   "id": "25a181b6-eb1f-40c7-aa0b-b4e5c81cad45",
   "dct_identifier_sm": [
     "25a181b6-eb1f-40c7-aa0b-b4e5c81cad45"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

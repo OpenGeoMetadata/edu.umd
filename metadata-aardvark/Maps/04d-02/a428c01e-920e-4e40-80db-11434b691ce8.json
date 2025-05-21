@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Great Britain - Bala , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of Wales"
   ],
+  "dct_language_sm": [
+    "eng",
+    "wel"
+  ],
   "dct_publisher_sm": [
     "Ordnance Survey"
   ],
@@ -27,11 +31,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Bala, United Kingdom"
+    "United Kingdom--Bala"
   ],
-  "locn_geometry": "ENVELOPE(21.5817,16.5972,51.41,45.8717)",
-  "dcat_bbox": "ENVELOPE(21.5817,16.5972,51.41,45.8717)",
-  "dcat_centroid": "48.64085,19.08945",
+  "locn_geometry": "POLYGON((21.582 51.410, 16.597 51.410, 16.597 45.872, 21.582 45.872, 21.582 51.410))",
+  "dcat_bbox": "ENVELOPE(21.582,16.597,51.410,45.872)",
+  "dcat_centroid": "48.641,19.0895",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/19/e2/ca/8e/19e2ca8e-9174-4165-80cc-451b16ce3a7b\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/19/e2/ca/8e/19e2ca8e-9174-4165-80cc-451b16ce3a7b\",\"label\":\"GeoTIFF\"}]}",
   "id": "a428c01e-920e-4e40-80db-11434b691ce8",
   "dct_identifier_sm": [
     "a428c01e-920e-4e40-80db-11434b691ce8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

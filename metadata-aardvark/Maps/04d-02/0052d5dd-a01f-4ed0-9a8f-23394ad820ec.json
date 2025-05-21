@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Bladiau (Pjatidoroznoe), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Russia (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Pyatidorozhnoye, Russia"
+    "Russia--Pyatidorozhnoye"
   ],
-  "locn_geometry": "ENVELOPE(16.3419,16.1524,54.2979,54.1989)",
-  "dcat_bbox": "ENVELOPE(16.3419,16.1524,54.2979,54.1989)",
-  "dcat_centroid": "54.248400000000004,16.247149999999998",
+  "locn_geometry": "POLYGON((16.342 54.298, 16.152 54.298, 16.152 54.199, 16.342 54.199, 16.342 54.298))",
+  "dcat_bbox": "ENVELOPE(16.342,16.152,54.298,54.199)",
+  "dcat_centroid": "54.2485,16.247",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/db/12/61/8b/db12618b-b61b-4823-a00b-07a9279c6015\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/db/12/61/8b/db12618b-b61b-4823-a00b-07a9279c6015\",\"label\":\"GeoTIFF\"}]}",
   "id": "0052d5dd-a01f-4ed0-9a8f-23394ad820ec",
   "dct_identifier_sm": [
     "0052d5dd-a01f-4ed0-9a8f-23394ad820ec"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

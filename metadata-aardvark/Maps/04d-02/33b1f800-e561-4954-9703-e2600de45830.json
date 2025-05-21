@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Sterpenich, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Sterpenich, Belgium"
+    "Belgium--Sterpenich"
   ],
-  "locn_geometry": "ENVELOPE(5.9752,5.8674,49.7368,49.6427)",
-  "dcat_bbox": "ENVELOPE(5.9752,5.8674,49.7368,49.6427)",
-  "dcat_centroid": "49.689750000000004,5.9213000000000005",
+  "locn_geometry": "POLYGON((5.975 49.737, 5.867 49.737, 5.867 49.643, 5.975 49.643, 5.975 49.737))",
+  "dcat_bbox": "ENVELOPE(5.975,5.867,49.737,49.643)",
+  "dcat_centroid": "49.69,5.920999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d3/4b/1b/b0/d34b1bb0-8ab8-4ef3-8223-128264370c7d\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d3/4b/1b/b0/d34b1bb0-8ab8-4ef3-8223-128264370c7d\",\"label\":\"GeoTIFF\"}]}",
   "id": "33b1f800-e561-4954-9703-e2600de45830",
   "dct_identifier_sm": [
     "33b1f800-e561-4954-9703-e2600de45830"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

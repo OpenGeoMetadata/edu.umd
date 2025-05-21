@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Paliseul, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Paliseul, Belgium"
+    "Belgium--Paliseul"
   ],
-  "locn_geometry": "ENVELOPE(5.203,5.0931,49.9241,49.8308)",
-  "dcat_bbox": "ENVELOPE(5.203,5.0931,49.9241,49.8308)",
-  "dcat_centroid": "49.87745,5.14805",
+  "locn_geometry": "POLYGON((5.203 49.924, 5.093 49.924, 5.093 49.831, 5.203 49.831, 5.203 49.924))",
+  "dcat_bbox": "ENVELOPE(5.203,5.093,49.924,49.831)",
+  "dcat_centroid": "49.8775,5.148",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/65/c8/ce/ba/65c8ceba-80f0-495e-81f6-cfa87a0dc5db\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/65/c8/ce/ba/65c8ceba-80f0-495e-81f6-cfa87a0dc5db\",\"label\":\"GeoTIFF\"}]}",
   "id": "355b9738-bc79-403f-8973-22ecfcb78684",
   "dct_identifier_sm": [
     "355b9738-bc79-403f-8973-22ecfcb78684"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

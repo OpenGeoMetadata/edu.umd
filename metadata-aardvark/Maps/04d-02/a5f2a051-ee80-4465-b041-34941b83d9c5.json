@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Glymenopoulo, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Alexandria, Egypt"
+    "Egypt--Alexandria"
   ],
-  "locn_geometry": "ENVELOPE(29.9871,29.9595,31.2362,31.2137)",
-  "dcat_bbox": "ENVELOPE(29.9871,29.9595,31.2362,31.2137)",
-  "dcat_centroid": "31.22495,29.973300000000002",
+  "locn_geometry": "POLYGON((29.987 31.236, 29.959 31.236, 29.959 31.214, 29.987 31.214, 29.987 31.236))",
+  "dcat_bbox": "ENVELOPE(29.987,29.959,31.236,31.214)",
+  "dcat_centroid": "31.225,29.973",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/df/c1/ea/18/dfc1ea18-79bf-4dfc-a46f-45e9adf27c07\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/df/c1/ea/18/dfc1ea18-79bf-4dfc-a46f-45e9adf27c07\",\"label\":\"GeoTIFF\"}]}",
   "id": "a5f2a051-ee80-4465-b041-34941b83d9c5",
   "dct_identifier_sm": [
     "a5f2a051-ee80-4465-b041-34941b83d9c5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Asia - Southern Asia - Rangoon (Yangon) , 1945. Scale=1:2,000,000. Topography, towns, roads for parts of China, Laos, Myanmar (Burma), Thailand, Vietnam"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,11 @@
     "[1945 TO 1945]"
   ],
   "dct_spatial_sm": [
-    "Rangoon, Myanmar [Burma]"
+    "Myanmar [Burma]--Rangoon"
   ],
-  "locn_geometry": "ENVELOPE(110.9869,95.8388,24.4235,15.6596)",
-  "dcat_bbox": "ENVELOPE(110.9869,95.8388,24.4235,15.6596)",
-  "dcat_centroid": "20.04155,103.41285",
+  "locn_geometry": "POLYGON((110.987 24.424, 95.839 24.424, 95.839 15.660, 110.987 15.660, 110.987 24.424))",
+  "dcat_bbox": "ENVELOPE(110.987,95.839,24.424,15.660)",
+  "dcat_centroid": "20.042,103.413",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/45/b7/98/8a/45b7988a-96b2-458d-83ce-350d5dc70c05\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/45/b7/98/8a/45b7988a-96b2-458d-83ce-350d5dc70c05\",\"label\":\"GeoTIFF\"}]}",
   "id": "506c8ee3-94f7-4300-9842-fc3fc65f4446",
   "dct_identifier_sm": [
     "506c8ee3-94f7-4300-9842-fc3fc65f4446"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

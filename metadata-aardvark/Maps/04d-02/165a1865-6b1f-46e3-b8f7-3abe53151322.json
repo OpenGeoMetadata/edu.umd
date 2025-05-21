@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Nre Alslev (Nørre Alslev) , 1901. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1901 TO 1901]"
   ],
   "dct_spatial_sm": [
-    "Nørre Alslev, Denmark"
+    "Denmark--Nørre Alslev"
   ],
-  "locn_geometry": "ENVELOPE(11.9886,11.8448,54.925,54.8522)",
-  "dcat_bbox": "ENVELOPE(11.9886,11.8448,54.925,54.8522)",
-  "dcat_centroid": "54.8886,11.916699999999999",
+  "locn_geometry": "POLYGON((11.989 54.925, 11.845 54.925, 11.845 54.852, 11.989 54.852, 11.989 54.925))",
+  "dcat_bbox": "ENVELOPE(11.989,11.845,54.925,54.852)",
+  "dcat_centroid": "54.88849999999999,11.917000000000002",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c6/d1/a6/1d/c6d1a61d-f88e-4536-a251-0ed87800b605\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c6/d1/a6/1d/c6d1a61d-f88e-4536-a251-0ed87800b605\",\"label\":\"GeoTIFF\"}]}",
   "id": "165a1865-6b1f-46e3-b8f7-3abe53151322",
   "dct_identifier_sm": [
     "165a1865-6b1f-46e3-b8f7-3abe53151322"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

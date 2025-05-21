@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Rail Maps - Berlin, 1944. Scale=1:750,000. Railroads for parts of Germany, Denmark, Poland, Sweden"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -30,11 +33,11 @@
     "[1944 TO 1944]"
   ],
   "dct_spatial_sm": [
-    "Land Berlin, Germany"
+    "Germany--Land Berlin"
   ],
-  "locn_geometry": "ENVELOPE(10.4207,3.4586,55.7072,51.155)",
-  "dcat_bbox": "ENVELOPE(10.4207,3.4586,55.7072,51.155)",
-  "dcat_centroid": "53.4311,6.93965",
+  "locn_geometry": "POLYGON((10.421 55.707, 3.459 55.707, 3.459 51.155, 10.421 51.155, 10.421 55.707))",
+  "dcat_bbox": "ENVELOPE(10.421,3.459,55.707,51.155)",
+  "dcat_centroid": "53.431,6.9399999999999995",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,12 +45,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/be/99/53/83/be995383-5adf-4656-8285-18bf54302b5b\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/be/99/53/83/be995383-5adf-4656-8285-18bf54302b5b\",\"label\":\"GeoTIFF\"}]}",
   "id": "6ac939c7-4847-49eb-a01d-6606cbbaa3ca",
   "dct_identifier_sm": [
     "6ac939c7-4847-49eb-a01d-6606cbbaa3ca"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

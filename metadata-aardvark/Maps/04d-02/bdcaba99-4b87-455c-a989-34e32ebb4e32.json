@@ -30,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "São Bartolomeu de Messines, Portugal"
+    "Portugal--São Bartolomeu de Messines"
   ],
-  "locn_geometry": "ENVELOPE(-8.1328,-8.4931,37.3288,37.143)",
-  "dcat_bbox": "ENVELOPE(-8.1328,-8.4931,37.3288,37.143)",
-  "dcat_centroid": "37.2359,-8.31295",
+  "locn_geometry": "POLYGON((-8.133 37.329, -8.493 37.329, -8.493 37.143, -8.133 37.143, -8.133 37.329))",
+  "dcat_bbox": "ENVELOPE(-8.133,-8.493,37.329,37.143)",
+  "dcat_centroid": "37.236000000000004,-8.312999999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0d/88/31/a2/0d8831a2-c1a6-4234-9433-d734b24a7e87\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0d/88/31/a2/0d8831a2-c1a6-4234-9433-d734b24a7e87\",\"label\":\"GeoTIFF\"}]}",
   "id": "bdcaba99-4b87-455c-a989-34e32ebb4e32",
   "dct_identifier_sm": [
     "bdcaba99-4b87-455c-a989-34e32ebb4e32"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

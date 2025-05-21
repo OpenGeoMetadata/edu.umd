@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Basnæs Nor, 1908. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Basnæs Nor, Denmark"
+    "Denmark--Basnæs Nor"
   ],
-  "locn_geometry": "ENVELOPE(11.4094,11.2634,55.2014,55.1292)",
-  "dcat_bbox": "ENVELOPE(11.4094,11.2634,55.2014,55.1292)",
-  "dcat_centroid": "55.1653,11.336400000000001",
+  "locn_geometry": "POLYGON((11.409 55.201, 11.263 55.201, 11.263 55.129, 11.409 55.129, 11.409 55.201))",
+  "dcat_bbox": "ENVELOPE(11.409,11.263,55.201,55.129)",
+  "dcat_centroid": "55.165,11.336",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/fd/a3/9d/89/fda39d89-74ad-4a66-aaeb-10cb225536a4\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/fd/a3/9d/89/fda39d89-74ad-4a66-aaeb-10cb225536a4\",\"label\":\"GeoTIFF\"}]}",
   "id": "460d0090-5293-451e-8493-8745e9dc82b5",
   "dct_identifier_sm": [
     "460d0090-5293-451e-8493-8745e9dc82b5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

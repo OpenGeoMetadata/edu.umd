@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Dalmose, 1909. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Dalmose, Denmark"
+    "Denmark--Dalmose"
   ],
-  "locn_geometry": "ENVELOPE(11.561,11.4148,55.3356,55.2633)",
-  "dcat_bbox": "ENVELOPE(11.561,11.4148,55.3356,55.2633)",
-  "dcat_centroid": "55.29945,11.4879",
+  "locn_geometry": "POLYGON((11.561 55.336, 11.415 55.336, 11.415 55.263, 11.561 55.263, 11.561 55.336))",
+  "dcat_bbox": "ENVELOPE(11.561,11.415,55.336,55.263)",
+  "dcat_centroid": "55.299499999999995,11.488",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a3/e1/13/f6/a3e113f6-3b31-42b7-9721-1ba8ab54fa72\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a3/e1/13/f6/a3e113f6-3b31-42b7-9721-1ba8ab54fa72\",\"label\":\"GeoTIFF\"}]}",
   "id": "4eedd09a-0957-458c-922d-b8ec3803ab88",
   "dct_identifier_sm": [
     "4eedd09a-0957-458c-922d-b8ec3803ab88"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

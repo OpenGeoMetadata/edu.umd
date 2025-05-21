@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Korea - Kunsan, 1976. Scale=1:50,000. Topography, towns, roads, political boundaries for parts of South Korea"
   ],
+  "dct_language_sm": [
+    "kor",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Rep. of Korea Army Map Service"
   ],
@@ -27,11 +31,11 @@
     "[1976 TO 1976]"
   ],
   "dct_spatial_sm": [
-    "Gunsan, South Korea"
+    "South Korea--Gunsan"
   ],
-  "locn_geometry": "ENVELOPE(126.7665,126.646,36.0208,35.9544)",
-  "dcat_bbox": "ENVELOPE(126.7665,126.646,36.0208,35.9544)",
-  "dcat_centroid": "35.9876,126.70625",
+  "locn_geometry": "POLYGON((126.766 36.021, 126.646 36.021, 126.646 35.954, 126.766 35.954, 126.766 36.021))",
+  "dcat_bbox": "ENVELOPE(126.766,126.646,36.021,35.954)",
+  "dcat_centroid": "35.9875,126.706",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c6/0d/22/4c/c60d224c-a966-470f-b124-a8b1c10175f1\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c6/0d/22/4c/c60d224c-a966-470f-b124-a8b1c10175f1\",\"label\":\"GeoTIFF\"}]}",
   "id": "3c9e08b3-4895-4746-933b-57c5eb2dac89",
   "dct_identifier_sm": [
     "3c9e08b3-4895-4746-933b-57c5eb2dac89"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

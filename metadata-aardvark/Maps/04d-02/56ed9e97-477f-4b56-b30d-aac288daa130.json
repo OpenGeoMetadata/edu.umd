@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Helgenæs , 1900. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Helgenæs, Denmark"
+    "Denmark--Helgenæs"
   ],
-  "locn_geometry": "ENVELOPE(10.5271,10.3762,56.152,56.0809)",
-  "dcat_bbox": "ENVELOPE(10.5271,10.3762,56.152,56.0809)",
-  "dcat_centroid": "56.11645,10.45165",
+  "locn_geometry": "POLYGON((10.527 56.152, 10.376 56.152, 10.376 56.081, 10.527 56.081, 10.527 56.152))",
+  "dcat_bbox": "ENVELOPE(10.527,10.376,56.152,56.081)",
+  "dcat_centroid": "56.1165,10.4515",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e3/57/a2/d1/e357a2d1-7127-4123-a6f9-37abb38e3a4e\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e3/57/a2/d1/e357a2d1-7127-4123-a6f9-37abb38e3a4e\",\"label\":\"GeoTIFF\"}]}",
   "id": "56ed9e97-477f-4b56-b30d-aac288daa130",
   "dct_identifier_sm": [
     "56ed9e97-477f-4b56-b30d-aac288daa130"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

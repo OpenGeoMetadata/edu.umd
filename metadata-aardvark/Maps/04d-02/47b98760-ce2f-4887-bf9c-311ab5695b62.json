@@ -28,11 +28,11 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Seini, Romania"
+    "Romania--Seini"
   ],
-  "locn_geometry": "ENVELOPE(23.3317,22.8314,47.7586,47.4896)",
-  "dcat_bbox": "ENVELOPE(23.3317,22.8314,47.7586,47.4896)",
-  "dcat_centroid": "47.6241,23.08155",
+  "locn_geometry": "POLYGON((23.332 47.759, 22.831 47.759, 22.831 47.490, 23.332 47.490, 23.332 47.759))",
+  "dcat_bbox": "ENVELOPE(23.332,22.831,47.759,47.490)",
+  "dcat_centroid": "47.6245,23.0815",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,12 +40,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c4/99/bb/6f/c499bb6f-566d-4d7f-a2ee-180017f0e0c9\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c4/99/bb/6f/c499bb6f-566d-4d7f-a2ee-180017f0e0c9\",\"label\":\"GeoTIFF\"}]}",
   "id": "47b98760-ce2f-4887-bf9c-311ab5695b62",
   "dct_identifier_sm": [
     "47b98760-ce2f-4887-bf9c-311ab5695b62"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Asia - Southern Asia - Yunnan , 1945. Scale=1:2,000,000. Topography, towns, roads for parts of China, Myanmar (Burma)"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +30,11 @@
     "[1945 TO 1945]"
   ],
   "dct_spatial_sm": [
-    "Yunnan, China"
+    "China--Yunnan"
   ],
-  "locn_geometry": "ENVELOPE(107.9919,95.7637,32.2675,23.7342)",
-  "dcat_bbox": "ENVELOPE(107.9919,95.7637,32.2675,23.7342)",
-  "dcat_centroid": "28.00085,101.87780000000001",
+  "locn_geometry": "POLYGON((107.992 32.267, 95.764 32.267, 95.764 23.734, 107.992 23.734, 107.992 32.267))",
+  "dcat_bbox": "ENVELOPE(107.992,95.764,32.267,23.734)",
+  "dcat_centroid": "28.000500000000002,101.878",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f9/fb/8f/76/f9fb8f76-fcc1-4ed4-8088-03af8ca4b775\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f9/fb/8f/76/f9fb8f76-fcc1-4ed4-8088-03af8ca4b775\",\"label\":\"GeoTIFF\"}]}",
   "id": "b724bcc5-5168-48fd-ba46-15d4ea896fef",
   "dct_identifier_sm": [
     "b724bcc5-5168-48fd-ba46-15d4ea896fef"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

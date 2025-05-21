@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Tranebjerg, 1922. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Tranebjerg Radio Mast, Denmark"
+    "Denmark--Tranebjerg Radio Mast"
   ],
-  "locn_geometry": "ENVELOPE(10.8293,10.6794,55.9487,55.8771)",
-  "dcat_bbox": "ENVELOPE(10.8293,10.6794,55.9487,55.8771)",
-  "dcat_centroid": "55.9129,10.754349999999999",
+  "locn_geometry": "POLYGON((10.829 55.949, 10.679 55.949, 10.679 55.877, 10.829 55.877, 10.829 55.949))",
+  "dcat_bbox": "ENVELOPE(10.829,10.679,55.949,55.877)",
+  "dcat_centroid": "55.913,10.754000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1e/32/f5/b2/1e32f5b2-8dc3-4926-8247-3833c8b3438c\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1e/32/f5/b2/1e32f5b2-8dc3-4926-8247-3833c8b3438c\",\"label\":\"GeoTIFF\"}]}",
   "id": "3ae9ae49-66c6-44ce-be15-5610660b204f",
   "dct_identifier_sm": [
     "3ae9ae49-66c6-44ce-be15-5610660b204f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

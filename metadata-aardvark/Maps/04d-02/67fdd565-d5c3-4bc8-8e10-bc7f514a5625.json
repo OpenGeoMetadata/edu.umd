@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Great Britain - Wolverhampton , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of England"
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Ordnance Survey"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Asnæs Rev, Denmark"
+    "Denmark--Asnæs Rev"
   ],
-  "locn_geometry": "ENVELOPE(-2.7026,-3.3479,52.8346,52.5726)",
-  "dcat_bbox": "ENVELOPE(-2.7026,-3.3479,52.8346,52.5726)",
-  "dcat_centroid": "52.7036,-3.0252499999999998",
+  "locn_geometry": "POLYGON((-2.703 52.835, -3.348 52.835, -3.348 52.573, -2.703 52.573, -2.703 52.835))",
+  "dcat_bbox": "ENVELOPE(-2.703,-3.348,52.835,52.573)",
+  "dcat_centroid": "52.704,-3.0255",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f6/a1/8c/0f/f6a18c0f-845c-4b2c-8e28-76b6e7c7c6d3\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f6/a1/8c/0f/f6a18c0f-845c-4b2c-8e28-76b6e7c7c6d3\",\"label\":\"GeoTIFF\"}]}",
   "id": "67fdd565-d5c3-4bc8-8e10-bc7f514a5625",
   "dct_identifier_sm": [
     "67fdd565-d5c3-4bc8-8e10-bc7f514a5625"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

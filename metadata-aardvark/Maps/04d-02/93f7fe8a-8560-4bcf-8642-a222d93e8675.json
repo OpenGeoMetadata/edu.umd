@@ -4,7 +4,10 @@
     "mdu-057145"
   ],
   "dct_description_sm": [
-    "Map of France - Geological Map - Ile d'Yeu et Palluau , 1902. Scale=1:80,000. Topography, geology, rock types for parts of France "
+    "Map of France - Geological Map - Ile d'Yeu et Palluau , 1902. Scale=1:80,000. Topography, geology, rock types for parts of France"
+  ],
+  "dct_language_sm": [
+    "fre"
   ],
   "dct_publisher_sm": [
     "Inspector General of Mines"
@@ -27,12 +30,12 @@
     "[1902 TO 1902]"
   ],
   "dct_spatial_sm": [
-    "Île d’Yeu, France",
-    "Palluau, France"
+    "France--Île d’Yeu",
+    "France--Palluau"
   ],
-  "locn_geometry": "ENVELOPE(-2.4072,-1.5681,46.8962,46.6335)",
-  "dcat_bbox": "ENVELOPE(-2.4072,-1.5681,46.8962,46.6335)",
-  "dcat_centroid": "46.764849999999996,-1.98765",
+  "locn_geometry": "POLYGON((-2.407 46.896, -1.568 46.896, -1.568 46.633, -2.407 46.633, -2.407 46.896))",
+  "dcat_bbox": "ENVELOPE(-2.407,-1.568,46.896,46.633)",
+  "dcat_centroid": "46.7645,-1.9875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/02/bd/22/40/02bd2240-b86b-4ae8-a7b6-257ab8cbdf75\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/02/bd/22/40/02bd2240-b86b-4ae8-a7b6-257ab8cbdf75\",\"label\":\"GeoTIFF\"}]}",
   "id": "93f7fe8a-8560-4bcf-8642-a222d93e8675",
   "dct_identifier_sm": [
     "93f7fe8a-8560-4bcf-8642-a222d93e8675"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

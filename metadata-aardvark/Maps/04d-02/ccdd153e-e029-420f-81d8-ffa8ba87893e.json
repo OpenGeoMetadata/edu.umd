@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Nimmersatt (Nemirseta), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Lithuania (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Nemirseta, Lithuania"
+    "Lithuania--Nemirseta"
   ],
-  "locn_geometry": "ENVELOPE(-16.5677,-16.5882,13.4623,13.4418)",
-  "dcat_bbox": "ENVELOPE(-16.5677,-16.5882,13.4623,13.4418)",
-  "dcat_centroid": "13.45205,-16.57795",
+  "locn_geometry": "POLYGON((-16.568 13.462, -16.588 13.462, -16.588 13.442, -16.568 13.442, -16.568 13.462))",
+  "dcat_bbox": "ENVELOPE(-16.568,-16.588,13.462,13.442)",
+  "dcat_centroid": "13.452,-16.578000000000003",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ae/08/79/39/ae087939-b4c2-4c50-a6da-602202ba0158\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ae/08/79/39/ae087939-b4c2-4c50-a6da-602202ba0158\",\"label\":\"GeoTIFF\"}]}",
   "id": "ccdd153e-e029-420f-81d8-ffa8ba87893e",
   "dct_identifier_sm": [
     "ccdd153e-e029-420f-81d8-ffa8ba87893e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

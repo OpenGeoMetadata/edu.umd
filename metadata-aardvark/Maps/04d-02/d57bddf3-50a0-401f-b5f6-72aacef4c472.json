@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Willerzie, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Willerzie, Belgium"
+    "Belgium--Willerzie"
   ],
-  "locn_geometry": "ENVELOPE(4.9818,4.8714,50.0152,49.9221)",
-  "dcat_bbox": "ENVELOPE(4.9818,4.8714,50.0152,49.9221)",
-  "dcat_centroid": "49.96865,4.9266000000000005",
+  "locn_geometry": "POLYGON((4.982 50.015, 4.871 50.015, 4.871 49.922, 4.982 49.922, 4.982 50.015))",
+  "dcat_bbox": "ENVELOPE(4.982,4.871,50.015,49.922)",
+  "dcat_centroid": "49.9685,4.926500000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/26/ef/ce/c0/26efcec0-d20b-4fcf-a489-ef244c93349d\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/26/ef/ce/c0/26efcec0-d20b-4fcf-a489-ef244c93349d\",\"label\":\"GeoTIFF\"}]}",
   "id": "d57bddf3-50a0-401f-b5f6-72aacef4c472",
   "dct_identifier_sm": [
     "d57bddf3-50a0-401f-b5f6-72aacef4c472"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

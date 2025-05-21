@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Sheet 5 & 10, 1909. Scale=1:160,000. Topography, towns, roads for parts of Denmark (Hjørring region)"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "General Staff Topographic Map"
   ],
@@ -27,11 +30,11 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Hjørring Kommune, Denmark"
+    "Denmark--Hjørring Kommune"
   ],
-  "locn_geometry": "ENVELOPE(10.7168,9.5336,57.7837,57.22)",
-  "dcat_bbox": "ENVELOPE(10.7168,9.5336,57.7837,57.22)",
-  "dcat_centroid": "57.501850000000005,10.1252",
+  "locn_geometry": "POLYGON((10.717 57.784, 9.534 57.784, 9.534 57.220, 10.717 57.220, 10.717 57.784))",
+  "dcat_bbox": "ENVELOPE(10.717,9.534,57.784,57.220)",
+  "dcat_centroid": "57.501999999999995,10.1255",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a5/a8/38/b4/a5a838b4-a0ac-4099-872e-0491dd142ed8\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a5/a8/38/b4/a5a838b4-a0ac-4099-872e-0491dd142ed8\",\"label\":\"GeoTIFF\"}]}",
   "id": "ca5edacc-25ef-4a4c-b500-f01eb0402d60",
   "dct_identifier_sm": [
     "ca5edacc-25ef-4a4c-b500-f01eb0402d60"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

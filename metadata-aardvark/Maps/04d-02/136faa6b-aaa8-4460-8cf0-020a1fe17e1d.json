@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Great Britain - Derby , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of England"
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Ordnance Survey"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Derby, United Kingdom"
+    "United Kingdom--Derby"
   ],
-  "locn_geometry": "ENVELOPE(-2.058,-2.7031,53.0968,52.8313)",
-  "dcat_bbox": "ENVELOPE(-2.058,-2.7031,53.0968,52.8313)",
-  "dcat_centroid": "52.96405,-2.38055",
+  "locn_geometry": "POLYGON((-2.058 53.097, -2.703 53.097, -2.703 52.831, -2.058 52.831, -2.058 53.097))",
+  "dcat_bbox": "ENVELOPE(-2.058,-2.703,53.097,52.831)",
+  "dcat_centroid": "52.964,-2.3804999999999996",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/12/f7/04/33/12f70433-ef4b-4b12-a446-fde975c1c2e3\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/12/f7/04/33/12f70433-ef4b-4b12-a446-fde975c1c2e3\",\"label\":\"GeoTIFF\"}]}",
   "id": "136faa6b-aaa8-4460-8cf0-020a1fe17e1d",
   "dct_identifier_sm": [
     "136faa6b-aaa8-4460-8cf0-020a1fe17e1d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

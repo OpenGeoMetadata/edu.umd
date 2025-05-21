@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Europe - Climate Zones, June , 1943. Scale=1:18,600,000. Monthly average continental climatic conditions"
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -29,9 +32,9 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "locn_geometry": "ENVELOPE(50.4199,-45.4582,77.3223,28.6438)",
-  "dcat_bbox": "ENVELOPE(50.4199,-45.4582,77.3223,28.6438)",
-  "dcat_centroid": "52.98305,2.48085",
+  "locn_geometry": "POLYGON((-45.458 77.322, 50.420 77.322, 50.420 28.644, -45.458 28.644, -45.458 77.322))",
+  "dcat_bbox": "ENVELOPE(-45.458,50.420,77.322,28.644)",
+  "dcat_centroid": "52.983000000000004,2.4810000000000016",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/04/49/48/22/04494822-c903-4a01-91f0-b905aed942cf\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/04/49/48/22/04494822-c903-4a01-91f0-b905aed942cf\",\"label\":\"GeoTIFF\"}]}",
   "id": "4f9309e6-7af6-4a67-a98a-2b218faac41d",
   "dct_identifier_sm": [
     "4f9309e6-7af6-4a67-a98a-2b218faac41d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

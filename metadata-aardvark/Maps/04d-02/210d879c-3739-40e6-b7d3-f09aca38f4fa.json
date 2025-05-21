@@ -4,7 +4,10 @@
     "mdu-057148"
   ],
   "dct_description_sm": [
-    "Map of France - Geological Map - Pontparlier , 1887. Scale=1:80,000. Topography, geology, rock types for parts of France "
+    "Map of France - Geological Map - Pontparlier , 1887. Scale=1:80,000. Topography, geology, rock types for parts of France"
+  ],
+  "dct_language_sm": [
+    "fre"
   ],
   "dct_publisher_sm": [
     "Inspector General of Mines"
@@ -27,11 +30,11 @@
     "[1887 TO 1887]"
   ],
   "dct_spatial_sm": [
-    "Pontarlier, France"
+    "France--Pontarlier"
   ],
-  "locn_geometry": "ENVELOPE(0.2534,-0.6104,46.9426,46.6006)",
-  "dcat_bbox": "ENVELOPE(0.2534,-0.6104,46.9426,46.6006)",
-  "dcat_centroid": "46.7716,-0.17850000000000002",
+  "locn_geometry": "POLYGON((6.091 46.958, 6.997 46.958, 6.997 46.546, 6.091 46.546, 6.091 46.958))",
+  "dcat_bbox": "ENVELOPE(6.091,6.997,46.958,46.546)",
+  "dcat_centroid": "46.751999999999995,6.5440000000000005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/af/80/92/16/af809216-3378-4310-96ad-81496cdaa26f\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/af/80/92/16/af809216-3378-4310-96ad-81496cdaa26f\",\"label\":\"GeoTIFF\"}]}",
   "id": "210d879c-3739-40e6-b7d3-f09aca38f4fa",
   "dct_identifier_sm": [
     "210d879c-3739-40e6-b7d3-f09aca38f4fa"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

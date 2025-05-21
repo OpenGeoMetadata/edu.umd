@@ -4,7 +4,10 @@
     "mdu-057143"
   ],
   "dct_description_sm": [
-    "Map of France - Geological Map - Montreuil  , 1904. Scale=1:80,000. Topography, geology, rock types for parts of France "
+    "Map of France - Geological Map - Montreuil  , 1904. Scale=1:80,000. Topography, geology, rock types for parts of France"
+  ],
+  "dct_language_sm": [
+    "fre"
   ],
   "dct_publisher_sm": [
     "Inspector General of Mines"
@@ -27,11 +30,11 @@
     "[1904 TO 1904]"
   ],
   "dct_spatial_sm": [
-    "Montreuil-sur-Brêche, France"
+    "France--Montreuil-sur-Brêche"
   ],
-  "locn_geometry": "ENVELOPE(2.7946,1.8216,50.9351,50.576)",
-  "dcat_bbox": "ENVELOPE(2.7946,1.8216,50.9351,50.576)",
-  "dcat_centroid": "50.75555,2.3081",
+  "locn_geometry": "POLYGON((2.795 50.935, 1.822 50.935, 1.822 50.576, 2.795 50.576, 2.795 50.935))",
+  "dcat_bbox": "ENVELOPE(2.795,1.822,50.935,50.576)",
+  "dcat_centroid": "50.7555,2.3085",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ee/35/be/4d/ee35be4d-6433-4742-a9d0-289f2778009c\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ee/35/be/4d/ee35be4d-6433-4742-a9d0-289f2778009c\",\"label\":\"GeoTIFF\"}]}",
   "id": "675c4200-eccc-48eb-af79-4c6686fb4fb9",
   "dct_identifier_sm": [
     "675c4200-eccc-48eb-af79-4c6686fb4fb9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

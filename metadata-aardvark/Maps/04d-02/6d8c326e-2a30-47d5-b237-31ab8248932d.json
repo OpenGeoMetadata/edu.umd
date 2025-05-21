@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of France - Châtenois, 1920. Scale=1:50,000. Topography, towns, roads, political boundaries for parts of France"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institut Géographique National"
   ],
@@ -27,11 +30,11 @@
     "[1920 TO 1920]"
   ],
   "dct_spatial_sm": [
-    "Châtenois, France"
+    "France--Châtenois"
   ],
-  "locn_geometry": "ENVELOPE(21.7547,21.5548,63.2,63.0983)",
-  "dcat_bbox": "ENVELOPE(21.7547,21.5548,63.2,63.0983)",
-  "dcat_centroid": "63.149150000000006,21.65475",
+  "locn_geometry": "POLYGON((21.755 63.200, 21.555 63.200, 21.555 63.098, 21.755 63.098, 21.755 63.200))",
+  "dcat_bbox": "ENVELOPE(21.755,21.555,63.200,63.098)",
+  "dcat_centroid": "63.149,21.655",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/6e/89/b3/54/6e89b354-71d4-4e78-b46d-ba006bbad74b\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/6e/89/b3/54/6e89b354-71d4-4e78-b46d-ba006bbad74b\",\"label\":\"GeoTIFF\"}]}",
   "id": "6d8c326e-2a30-47d5-b237-31ab8248932d",
   "dct_identifier_sm": [
     "6d8c326e-2a30-47d5-b237-31ab8248932d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

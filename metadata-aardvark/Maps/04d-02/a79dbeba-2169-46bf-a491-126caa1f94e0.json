@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Great Britain - Shrewsbury , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of England, Wales"
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Ordnance Survey"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Asnæs Rev, Denmark"
+    "Denmark--Asnæs Rev"
   ],
-  "locn_geometry": "ENVELOPE(-3.3438,-3.9924,52.8291,52.5709)",
-  "dcat_bbox": "ENVELOPE(-3.3438,-3.9924,52.8291,52.5709)",
-  "dcat_centroid": "52.7,-3.6681",
+  "locn_geometry": "POLYGON((-3.344 52.829, -3.992 52.829, -3.992 52.571, -3.344 52.571, -3.344 52.829))",
+  "dcat_bbox": "ENVELOPE(-3.344,-3.992,52.829,52.571)",
+  "dcat_centroid": "52.7,-3.668",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/01/c1/9d/1d/01c19d1d-b6a8-41e6-8584-b7ea630d3d70\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/01/c1/9d/1d/01c19d1d-b6a8-41e6-8584-b7ea630d3d70\",\"label\":\"GeoTIFF\"}]}",
   "id": "a79dbeba-2169-46bf-a491-126caa1f94e0",
   "dct_identifier_sm": [
     "a79dbeba-2169-46bf-a491-126caa1f94e0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of  South America - La Paz , 1922. Scale=1:1,000,000. Topography, towns, roads, political boundaries for parts of Bolivia, Chile, Peru"
   ],
+  "dct_language_sm": [
+    "eng",
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -27,11 +31,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "La Paz Aeroclub, Argentina"
+    "Argentina--La Paz Aeroclub"
   ],
-  "locn_geometry": "ENVELOPE(-65.932,-71.9993,-15.9799,-19.9984)",
-  "dcat_bbox": "ENVELOPE(-65.932,-71.9993,-15.9799,-19.9984)",
-  "dcat_centroid": "-17.989150000000002,-68.96565000000001",
+  "locn_geometry": "POLYGON((-65.932 -15.980, -71.999 -15.980, -71.999 -19.998, -65.932 -19.998, -65.932 -15.980))",
+  "dcat_bbox": "ENVELOPE(-65.932,-71.999,-15.980,-19.998)",
+  "dcat_centroid": "-17.989,-68.96549999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c6/05/a0/dc/c605a0dc-a7a9-415a-bd22-ed3feb5b863d\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c6/05/a0/dc/c605a0dc-a7a9-415a-bd22-ed3feb5b863d\",\"label\":\"GeoTIFF\"}]}",
   "id": "90cab090-fb52-49fc-9484-d703482aa47e",
   "dct_identifier_sm": [
     "90cab090-fb52-49fc-9484-d703482aa47e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

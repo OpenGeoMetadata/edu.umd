@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Anlier, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Anlier, Belgium"
+    "Belgium--Anlier"
   ],
-  "locn_geometry": "ENVELOPE(5.6456,5.5368,49.8305,49.7368)",
-  "dcat_bbox": "ENVELOPE(5.6456,5.5368,49.8305,49.7368)",
-  "dcat_centroid": "49.78365,5.591200000000001",
+  "locn_geometry": "POLYGON((5.646 49.831, 5.537 49.831, 5.537 49.737, 5.646 49.737, 5.646 49.831))",
+  "dcat_bbox": "ENVELOPE(5.646,5.537,49.831,49.737)",
+  "dcat_centroid": "49.784000000000006,5.5915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/3f/8f/34/e8/3f8f34e8-8061-4b0b-b44c-08eebe1c39a7\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/3f/8f/34/e8/3f8f34e8-8061-4b0b-b44c-08eebe1c39a7\",\"label\":\"GeoTIFF\"}]}",
   "id": "2999ef0a-1bae-4f46-87c3-b0d5818d4767",
   "dct_identifier_sm": [
     "2999ef0a-1bae-4f46-87c3-b0d5818d4767"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

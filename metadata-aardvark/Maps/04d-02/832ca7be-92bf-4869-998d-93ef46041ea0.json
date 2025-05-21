@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Korea - City Map - P'ohang, South Korea, 1976. Scale=1:12,500. Topography, streets, major buildings"
   ],
+  "dct_language_sm": [
+    "kor",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Rep. of Korea Army Map Service"
   ],
@@ -27,11 +31,11 @@
     "[1976 TO 1976]"
   ],
   "dct_spatial_sm": [
-    "P’ohang, South Korea"
+    "South Korea--P’ohang"
   ],
-  "locn_geometry": "ENVELOPE(129.4102,129.3436,36.0657,35.9903)",
-  "dcat_bbox": "ENVELOPE(129.4102,129.3436,36.0657,35.9903)",
-  "dcat_centroid": "36.028,129.3769",
+  "locn_geometry": "POLYGON((129.410 36.066, 129.344 36.066, 129.344 35.990, 129.410 35.990, 129.410 36.066))",
+  "dcat_bbox": "ENVELOPE(129.410,129.344,36.066,35.990)",
+  "dcat_centroid": "36.028000000000006,129.377",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5a/d5/66/b2/5ad566b2-e9a5-4ebd-9d7a-663e1f63904f\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5a/d5/66/b2/5ad566b2-e9a5-4ebd-9d7a-663e1f63904f\",\"label\":\"GeoTIFF\"}]}",
   "id": "832ca7be-92bf-4869-998d-93ef46041ea0",
   "dct_identifier_sm": [
     "832ca7be-92bf-4869-998d-93ef46041ea0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

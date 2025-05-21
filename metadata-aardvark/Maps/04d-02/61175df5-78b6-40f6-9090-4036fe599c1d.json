@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Holsteinborg, 1908. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Holsteinborg, Denmark"
+    "Denmark--Holsteinborg"
   ],
-  "locn_geometry": "ENVELOPE(11.559,11.4131,55.2679,55.1956)",
-  "dcat_bbox": "ENVELOPE(11.559,11.4131,55.2679,55.1956)",
-  "dcat_centroid": "55.23175,11.486049999999999",
+  "locn_geometry": "POLYGON((11.559 55.268, 11.413 55.268, 11.413 55.196, 11.559 55.196, 11.559 55.268))",
+  "dcat_bbox": "ENVELOPE(11.559,11.413,55.268,55.196)",
+  "dcat_centroid": "55.232,11.486",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5e/54/00/e7/5e5400e7-0c61-4fe0-b6f1-1a74c06b6275\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5e/54/00/e7/5e5400e7-0c61-4fe0-b6f1-1a74c06b6275\",\"label\":\"GeoTIFF\"}]}",
   "id": "61175df5-78b6-40f6-9090-4036fe599c1d",
   "dct_identifier_sm": [
     "61175df5-78b6-40f6-9090-4036fe599c1d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

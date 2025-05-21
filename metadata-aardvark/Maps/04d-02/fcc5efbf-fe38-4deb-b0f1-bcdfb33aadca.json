@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Omö (Omø), 1908. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Omø By, Denmark"
+    "Denmark--Omø By"
   ],
-  "locn_geometry": "ENVELOPE(11.2618,11.1155,55.2025,55.1305)",
-  "dcat_bbox": "ENVELOPE(11.2618,11.1155,55.2025,55.1305)",
-  "dcat_centroid": "55.1665,11.188649999999999",
+  "locn_geometry": "POLYGON((11.262 55.203, 11.116 55.203, 11.116 55.130, 11.262 55.130, 11.262 55.203))",
+  "dcat_bbox": "ENVELOPE(11.262,11.116,55.203,55.130)",
+  "dcat_centroid": "55.1665,11.189",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0a/95/79/99/0a957999-a087-4bc8-9638-d8de1c85e4f1\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0a/95/79/99/0a957999-a087-4bc8-9638-d8de1c85e4f1\",\"label\":\"GeoTIFF\"}]}",
   "id": "fcc5efbf-fe38-4deb-b0f1-bcdfb33aadca",
   "dct_identifier_sm": [
     "fcc5efbf-fe38-4deb-b0f1-bcdfb33aadca"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

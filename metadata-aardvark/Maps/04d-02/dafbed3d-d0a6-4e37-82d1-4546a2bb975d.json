@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Asia - Southern Asia - Singapore , 1945. Scale=1:2,000,000. Topography, towns, roads for parts of Indonesia, Malaysia, Singapore, Thailand"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -29,9 +32,9 @@
   "dct_spatial_sm": [
     "Singapore"
   ],
-  "locn_geometry": "ENVELOPE(108.0029,94.9645,8.0615,-0.0122)",
-  "dcat_bbox": "ENVELOPE(108.0029,94.9645,8.0615,-0.0122)",
-  "dcat_centroid": "4.02465,101.4837",
+  "locn_geometry": "POLYGON((108.003 8.062, 94.965 8.062, 94.965 -0.012, 108.003 -0.012, 108.003 8.062))",
+  "dcat_bbox": "ENVELOPE(108.003,94.965,8.062,-0.012)",
+  "dcat_centroid": "4.0249999999999995,101.48400000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d5/b1/c9/12/d5b1c912-3f24-4fba-8534-d30bae859684\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d5/b1/c9/12/d5b1c912-3f24-4fba-8534-d30bae859684\",\"label\":\"GeoTIFF\"}]}",
   "id": "dafbed3d-d0a6-4e37-82d1-4546a2bb975d",
   "dct_identifier_sm": [
     "dafbed3d-d0a6-4e37-82d1-4546a2bb975d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

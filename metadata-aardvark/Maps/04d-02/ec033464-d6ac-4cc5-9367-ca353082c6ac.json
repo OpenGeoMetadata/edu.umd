@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Fjelsted, 1918. Scale=1:20,000. Topography, towns, roads for parts of Denmark. Reverse side is map of region near Sejerø Island, Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1918 TO 1918]"
   ],
   "dct_spatial_sm": [
-    "Fjelsted, Denmark"
+    "Denmark--Fjelsted"
   ],
-  "locn_geometry": "ENVELOPE(10.2271,10.0779,55.5427,55.472)",
-  "dcat_bbox": "ENVELOPE(10.2271,10.0779,55.5427,55.472)",
-  "dcat_centroid": "55.50735,10.1525",
+  "locn_geometry": "POLYGON((10.227 55.543, 10.078 55.543, 10.078 55.472, 10.227 55.472, 10.227 55.543))",
+  "dcat_bbox": "ENVELOPE(10.227,10.078,55.543,55.472)",
+  "dcat_centroid": "55.5075,10.1525",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/38/00/7f/1b/38007f1b-fd87-4b7b-aa3d-96f618dd536b\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/38/00/7f/1b/38007f1b-fd87-4b7b-aa3d-96f618dd536b\",\"label\":\"GeoTIFF\"}]}",
   "id": "ec033464-d6ac-4cc5-9367-ca353082c6ac",
   "dct_identifier_sm": [
     "ec033464-d6ac-4cc5-9367-ca353082c6ac"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

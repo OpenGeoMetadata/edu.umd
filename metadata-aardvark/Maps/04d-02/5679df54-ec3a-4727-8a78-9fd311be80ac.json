@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Stavns, 1922. Scale=1:20,000. Topography, towns, roads for parts of Denmark. Reverse side is map of region near Nyborg, Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Stavns Fjord, Denmark"
+    "Denmark--Stavns Fjord"
   ],
-  "locn_geometry": "ENVELOPE(10.5265,10.3761,56.0167,55.9396)",
-  "dcat_bbox": "ENVELOPE(10.5265,10.3761,56.0167,55.9396)",
-  "dcat_centroid": "55.97815,10.4513",
+  "locn_geometry": "POLYGON((10.527 56.017, 10.376 56.017, 10.376 55.940, 10.527 55.940, 10.527 56.017))",
+  "dcat_bbox": "ENVELOPE(10.527,10.376,56.017,55.940)",
+  "dcat_centroid": "55.9785,10.4515",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ef/1e/dc/87/ef1edc87-1a50-472b-9f83-7daa6bce1cac\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ef/1e/dc/87/ef1edc87-1a50-472b-9f83-7daa6bce1cac\",\"label\":\"GeoTIFF\"}]}",
   "id": "5679df54-ec3a-4727-8a78-9fd311be80ac",
   "dct_identifier_sm": [
     "5679df54-ec3a-4727-8a78-9fd311be80ac"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

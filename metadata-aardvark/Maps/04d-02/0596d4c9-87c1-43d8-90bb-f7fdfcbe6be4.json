@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Algeria - St. Leu (Bettioua), 1911. Scale=1:10,000. Topography, streets, main buildings in Bettioua region. In French."
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Service Géographique de L'Armée"
   ],
@@ -27,11 +30,11 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Bettioua, Algeria"
+    "Algeria--Bettioua"
   ],
-  "locn_geometry": "ENVELOPE(-0.1852,-0.2288,35.8206,35.7745)",
-  "dcat_bbox": "ENVELOPE(-0.1852,-0.2288,35.8206,35.7745)",
-  "dcat_centroid": "35.79755,-0.20700000000000002",
+  "locn_geometry": "POLYGON((-0.185 35.821, -0.229 35.821, -0.229 35.775, -0.185 35.775, -0.185 35.821))",
+  "dcat_bbox": "ENVELOPE(-0.185,-0.229,35.821,35.775)",
+  "dcat_centroid": "35.798,-0.20700000000000002",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/63/5b/19/9d/635b199d-96e0-4cd6-bbae-fde2431cca54\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/63/5b/19/9d/635b199d-96e0-4cd6-bbae-fde2431cca54\",\"label\":\"GeoTIFF\"}]}",
   "id": "0596d4c9-87c1-43d8-90bb-f7fdfcbe6be4",
   "dct_identifier_sm": [
     "0596d4c9-87c1-43d8-90bb-f7fdfcbe6be4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

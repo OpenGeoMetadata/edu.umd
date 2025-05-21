@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Fangel, 1921. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Fangel, Denmark"
+    "Denmark--Fangel"
   ],
-  "locn_geometry": "ENVELOPE(10.0955,9.0024,55.0954,54.5066)",
-  "dcat_bbox": "ENVELOPE(10.0955,9.0024,55.0954,54.5066)",
-  "dcat_centroid": "54.801,9.54895",
+  "locn_geometry": "POLYGON((10.095 55.095, 9.002 55.095, 9.002 54.507, 10.095 54.507, 10.095 55.095))",
+  "dcat_bbox": "ENVELOPE(10.095,9.002,55.095,54.507)",
+  "dcat_centroid": "54.801,9.5485",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f5/02/4b/fa/f5024bfa-4d1c-41a6-a919-4dc1a7e21c0d\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f5/02/4b/fa/f5024bfa-4d1c-41a6-a919-4dc1a7e21c0d\",\"label\":\"GeoTIFF\"}]}",
   "id": "975ff1b8-b839-4a4b-b744-aba776573e5a",
   "dct_identifier_sm": [
     "975ff1b8-b839-4a4b-b744-aba776573e5a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Memel (Klaipeda), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Lithuania (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Memelberg, Germany"
+    "Germany--Memelberg"
   ],
-  "locn_geometry": "ENVELOPE(21.1638,20.997,55.8986,55.7984)",
-  "dcat_bbox": "ENVELOPE(21.1638,20.997,55.8986,55.7984)",
-  "dcat_centroid": "55.8485,21.080399999999997",
+  "locn_geometry": "POLYGON((21.164 55.899, 20.997 55.899, 20.997 55.798, 21.164 55.798, 21.164 55.899))",
+  "dcat_bbox": "ENVELOPE(21.164,20.997,55.899,55.798)",
+  "dcat_centroid": "55.8485,21.0805",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d8/e9/8f/09/d8e98f09-c2ff-42b4-8663-3a8c87719df6\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d8/e9/8f/09/d8e98f09-c2ff-42b4-8663-3a8c87719df6\",\"label\":\"GeoTIFF\"}]}",
   "id": "4e395a26-d3e3-4824-8411-edacb0e1870b",
   "dct_identifier_sm": [
     "4e395a26-d3e3-4824-8411-edacb0e1870b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

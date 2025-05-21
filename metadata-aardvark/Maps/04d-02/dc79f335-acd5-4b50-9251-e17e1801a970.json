@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Mainvault, 1907. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1907 TO 1907]"
   ],
   "dct_spatial_sm": [
-    "Mainvault, Belgium"
+    "Belgium--Mainvault"
   ],
-  "locn_geometry": "ENVELOPE(4.5408,4.4263,51.275,51.1823)",
-  "dcat_bbox": "ENVELOPE(4.5408,4.4263,51.275,51.1823)",
-  "dcat_centroid": "51.22865,4.48355",
+  "locn_geometry": "POLYGON((4.541 51.275, 4.426 51.275, 4.426 51.182, 4.541 51.182, 4.541 51.275))",
+  "dcat_bbox": "ENVELOPE(4.541,4.426,51.275,51.182)",
+  "dcat_centroid": "51.2285,4.4835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1d/ef/5f/61/1def5f61-617c-459a-a170-60c9e87cdf4d\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1d/ef/5f/61/1def5f61-617c-459a-a170-60c9e87cdf4d\",\"label\":\"GeoTIFF\"}]}",
   "id": "dc79f335-acd5-4b50-9251-e17e1801a970",
   "dct_identifier_sm": [
     "dc79f335-acd5-4b50-9251-e17e1801a970"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

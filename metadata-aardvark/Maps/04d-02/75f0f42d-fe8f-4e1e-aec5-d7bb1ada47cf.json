@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Asia - China and Japan, 1943. Scale=1:8,000,000. Topography, towns, roads for China, Japan, Mongolia, Korean Peninsula"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -30,9 +33,9 @@
     "China",
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(149.9515,72.3687,48.5903,20.0144)",
-  "dcat_bbox": "ENVELOPE(149.9515,72.3687,48.5903,20.0144)",
-  "dcat_centroid": "34.30235,111.1601",
+  "locn_geometry": "POLYGON((149.952 48.590, 72.369 48.590, 72.369 20.014, 149.952 20.014, 149.952 48.590))",
+  "dcat_bbox": "ENVELOPE(149.952,72.369,48.590,20.014)",
+  "dcat_centroid": "34.302,111.1605",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/72/55/1c/5e/72551c5e-f253-41ce-8a30-7b51b708f156\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/72/55/1c/5e/72551c5e-f253-41ce-8a30-7b51b708f156\",\"label\":\"GeoTIFF\"}]}",
   "id": "75f0f42d-fe8f-4e1e-aec5-d7bb1ada47cf",
   "dct_identifier_sm": [
     "75f0f42d-fe8f-4e1e-aec5-d7bb1ada47cf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

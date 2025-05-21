@@ -13,9 +13,6 @@
   "gbl_resourceType_sm": [
     "Topographic maps"
   ],
-  "dcat_keyword_sm": [
-    "University of Maryland Digital Collections"
-  ],
   "dct_temporal_sm": [
     "1839"
   ],
@@ -26,13 +23,13 @@
     "[1839 TO 1839]"
   ],
   "dct_spatial_sm": [
-    "Baltimore, Maryland",
-    "Harford County, Maryland",
+    "Maryland--Baltimore",
+    "Maryland--Harford County",
     "Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
-  "dcat_bbox": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
-  "dcat_centroid": "39.2847,-76.62049999999999",
+  "locn_geometry": "POLYGON((-76.712 39.372, -76.529 39.372, -76.529 39.197, -76.712 39.197, -76.712 39.372))",
+  "dcat_bbox": "ENVELOPE(-76.712,-76.529,39.372,39.197)",
+  "dcat_centroid": "39.2845,-76.62049999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +38,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:78960/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/11470\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/11470\",\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:78960/info.json\"}",
   "id": "59c0e7f8-1d65-4ec0-99fd-2517801fb48f",
   "dct_identifier_sm": [
     "59c0e7f8-1d65-4ec0-99fd-2517801fb48f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

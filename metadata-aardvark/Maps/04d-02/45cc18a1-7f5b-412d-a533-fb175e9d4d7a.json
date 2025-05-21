@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Sheet 9, 1920. Scale=1:160,000. Topography, towns, roads for parts of Denmark (Kolding-Haderslev region)"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "General Staff Topographic Map"
   ],
@@ -27,12 +30,12 @@
     "[1920 TO 1920]"
   ],
   "dct_spatial_sm": [
-    "Kolding Kommune, Denmark",
-    "Haderslev Kommune, Denmark"
+    "Denmark--Kolding Kommune",
+    "Denmark--Haderslev Kommune"
   ],
-  "locn_geometry": "ENVELOPE(10.0787,9.9294,55.4747,55.4041)",
-  "dcat_bbox": "ENVELOPE(10.0787,9.9294,55.4747,55.4041)",
-  "dcat_centroid": "55.4394,10.00405",
+  "locn_geometry": "POLYGON((10.079 55.475, 9.929 55.475, 9.929 55.404, 10.079 55.404, 10.079 55.475))",
+  "dcat_bbox": "ENVELOPE(10.079,9.929,55.475,55.404)",
+  "dcat_centroid": "55.4395,10.004000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b0/cf/3e/05/b0cf3e05-9688-4a5c-bc3e-1f6013105638\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b0/cf/3e/05/b0cf3e05-9688-4a5c-bc3e-1f6013105638\",\"label\":\"GeoTIFF\"}]}",
   "id": "45cc18a1-7f5b-412d-a533-fb175e9d4d7a",
   "dct_identifier_sm": [
     "45cc18a1-7f5b-412d-a533-fb175e9d4d7a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Lassehne , 1921. Scale=1:25,000. Topography, geology, rock types for parts of Poland (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Łasin Koszaliński, Poland"
+    "Poland--Łasin Koszaliński"
   ],
-  "locn_geometry": "ENVELOPE(16.342,16.1523,54.3979,54.2989)",
-  "dcat_bbox": "ENVELOPE(16.342,16.1523,54.3979,54.2989)",
-  "dcat_centroid": "54.3484,16.247149999999998",
+  "locn_geometry": "POLYGON((16.342 54.398, 16.152 54.398, 16.152 54.299, 16.342 54.299, 16.342 54.398))",
+  "dcat_bbox": "ENVELOPE(16.342,16.152,54.398,54.299)",
+  "dcat_centroid": "54.3485,16.247",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0e/8d/be/42/0e8dbe42-e286-4ee3-b0c7-434074c6974e\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0e/8d/be/42/0e8dbe42-e286-4ee3-b0c7-434074c6974e\",\"label\":\"GeoTIFF\"}]}",
   "id": "268634c4-465e-4fe1-8c48-a46fad501dce",
   "dct_identifier_sm": [
     "268634c4-465e-4fe1-8c48-a46fad501dce"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

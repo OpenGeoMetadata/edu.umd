@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Minet El Bassal, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Mīnā al Başal, Egypt"
+    "Egypt--Mīnā al Başal"
   ],
-  "locn_geometry": "ENVELOPE(29.8823,29.8546,31.1909,31.1684)",
-  "dcat_bbox": "ENVELOPE(29.8823,29.8546,31.1909,31.1684)",
-  "dcat_centroid": "31.17965,29.868450000000003",
+  "locn_geometry": "POLYGON((29.882 31.191, 29.855 31.191, 29.855 31.168, 29.882 31.168, 29.882 31.191))",
+  "dcat_bbox": "ENVELOPE(29.882,29.855,31.191,31.168)",
+  "dcat_centroid": "31.179499999999997,29.8685",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e0/5b/1e/60/e05b1e60-7523-4606-a4f8-e9ab6a7e26b6\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/e0/5b/1e/60/e05b1e60-7523-4606-a4f8-e9ab6a7e26b6\",\"label\":\"GeoTIFF\"}]}",
   "id": "14057302-f9cc-492a-b533-da2cb56d6ee1",
   "dct_identifier_sm": [
     "14057302-f9cc-492a-b533-da2cb56d6ee1"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

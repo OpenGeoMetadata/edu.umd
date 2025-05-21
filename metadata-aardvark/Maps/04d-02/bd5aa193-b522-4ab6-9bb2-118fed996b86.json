@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Ste Hestehave (Store Hestehave), 1906. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "Store Hestehave, Denmark"
+    "Denmark--Store Hestehave"
   ],
-  "locn_geometry": "ENVELOPE(12.2947,12.1505,55.1917,55.1185)",
-  "dcat_bbox": "ENVELOPE(12.2947,12.1505,55.1917,55.1185)",
-  "dcat_centroid": "55.1551,12.2226",
+  "locn_geometry": "POLYGON((12.295 55.192, 12.150 55.192, 12.150 55.118, 12.295 55.118, 12.295 55.192))",
+  "dcat_bbox": "ENVELOPE(12.295,12.150,55.192,55.118)",
+  "dcat_centroid": "55.155,12.2225",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/8a/1b/49/15/8a1b4915-127b-43e7-84e8-37433d05aea4\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/8a/1b/49/15/8a1b4915-127b-43e7-84e8-37433d05aea4\",\"label\":\"GeoTIFF\"}]}",
   "id": "bd5aa193-b522-4ab6-9bb2-118fed996b86",
   "dct_identifier_sm": [
     "bd5aa193-b522-4ab6-9bb2-118fed996b86"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

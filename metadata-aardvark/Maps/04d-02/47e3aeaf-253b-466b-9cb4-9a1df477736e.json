@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Wardian , 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Al Wardiyān, Egypt"
+    "Egypt--Al Wardiyān"
   ],
-  "locn_geometry": "ENVELOPE(30.0091,29.7533,31.287,31.0942)",
-  "dcat_bbox": "ENVELOPE(30.0091,29.7533,31.287,31.0942)",
-  "dcat_centroid": "31.1906,29.8812",
+  "locn_geometry": "POLYGON((30.009 31.287, 29.753 31.287, 29.753 31.094, 30.009 31.094, 30.009 31.287))",
+  "dcat_bbox": "ENVELOPE(30.009,29.753,31.287,31.094)",
+  "dcat_centroid": "31.1905,29.881",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9e/f9/e6/42/9ef9e642-4f00-42f9-8694-73999c837d96\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/9e/f9/e6/42/9ef9e642-4f00-42f9-8694-73999c837d96\",\"label\":\"GeoTIFF\"}]}",
   "id": "47e3aeaf-253b-466b-9cb4-9a1df477736e",
   "dct_identifier_sm": [
     "47e3aeaf-253b-466b-9cb4-9a1df477736e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

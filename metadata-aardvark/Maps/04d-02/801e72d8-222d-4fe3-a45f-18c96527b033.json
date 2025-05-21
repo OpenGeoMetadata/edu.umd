@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Podejuch (Podjuchy), 1921. Scale=1:25,000. Topography, geology, rock types for parts of Poland (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Podjuchy, Poland"
+    "Poland--Podjuchy"
   ],
-  "locn_geometry": "ENVELOPE(14.347,14.1483,53.9975,53.8993)",
-  "dcat_bbox": "ENVELOPE(14.347,14.1483,53.9975,53.8993)",
-  "dcat_centroid": "53.9484,14.24765",
+  "locn_geometry": "POLYGON((14.347 53.998, 14.148 53.998, 14.148 53.899, 14.347 53.899, 14.347 53.998))",
+  "dcat_bbox": "ENVELOPE(14.347,14.148,53.998,53.899)",
+  "dcat_centroid": "53.948499999999996,14.247499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ae/26/4e/0f/ae264e0f-2746-49e0-b7d0-5233d981b17b\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ae/26/4e/0f/ae264e0f-2746-49e0-b7d0-5233d981b17b\",\"label\":\"GeoTIFF\"}]}",
   "id": "801e72d8-222d-4fe3-a45f-18c96527b033",
   "dct_identifier_sm": [
     "801e72d8-222d-4fe3-a45f-18c96527b033"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -4,7 +4,10 @@
     "mdu-057149"
   ],
   "dct_description_sm": [
-    "Map of France - Geological Map - Les Sables (Les Sables-d'Olonne), 1890. Scale=1:80,000. Topography, geology, rock types for parts of France "
+    "Map of France - Geological Map - Les Sables (Les Sables-d'Olonne), 1890. Scale=1:80,000. Topography, geology, rock types for parts of France"
+  ],
+  "dct_language_sm": [
+    "fre"
   ],
   "dct_publisher_sm": [
     "Inspector General of Mines"
@@ -27,11 +30,11 @@
     "[1890 TO 1890]"
   ],
   "dct_spatial_sm": [
-    "Les Sables-d'Olonne, France"
+    "France--Les Sables-d'Olonne"
   ],
-  "locn_geometry": "ENVELOPE(6.9297,6.1125,46.9197,46.5301)",
-  "dcat_bbox": "ENVELOPE(6.9297,6.1125,46.9197,46.5301)",
-  "dcat_centroid": "46.7249,6.521100000000001",
+  "locn_geometry": "POLYGON((6.930 46.920, 6.112 46.920, 6.112 46.530, 6.930 46.530, 6.930 46.920))",
+  "dcat_bbox": "ENVELOPE(6.930,6.112,46.920,46.530)",
+  "dcat_centroid": "46.725,6.521",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/8c/03/7b/86/8c037b86-5bae-47b0-91f6-0248dcf462ab\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/8c/03/7b/86/8c037b86-5bae-47b0-91f6-0248dcf462ab\",\"label\":\"GeoTIFF\"}]}",
   "id": "39d867ab-a51d-4efc-ba9d-c0b88eaf006c",
   "dct_identifier_sm": [
     "39d867ab-a51d-4efc-ba9d-c0b88eaf006c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

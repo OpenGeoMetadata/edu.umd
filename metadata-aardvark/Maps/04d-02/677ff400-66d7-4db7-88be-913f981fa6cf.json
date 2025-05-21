@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Rail Maps - Königsberg (Kaliningrad), 1945. Scale=1:750,000. Railroads for parts of Lithuania, Poland, Russia"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Army Map Service"
   ],
@@ -30,11 +33,11 @@
     "[1945 TO 1945]"
   ],
   "dct_spatial_sm": [
-    "Königsberg i.Bay., Germany"
+    "Germany--Königsberg i.Bay."
   ],
-  "locn_geometry": "ENVELOPE(16.5528,10.0766,56.0778,51.1535)",
-  "dcat_bbox": "ENVELOPE(16.5528,10.0766,56.0778,51.1535)",
-  "dcat_centroid": "53.61565,13.3147",
+  "locn_geometry": "POLYGON((16.553 56.078, 10.077 56.078, 10.077 51.154, 16.553 51.154, 16.553 56.078))",
+  "dcat_bbox": "ENVELOPE(16.553,10.077,56.078,51.154)",
+  "dcat_centroid": "53.616,13.315000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,12 +45,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/4c/3c/95/18/4c3c9518-6830-4115-8859-86429a23aef2\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/4c/3c/95/18/4c3c9518-6830-4115-8859-86429a23aef2\",\"label\":\"GeoTIFF\"}]}",
   "id": "677ff400-66d7-4db7-88be-913f981fa6cf",
   "dct_identifier_sm": [
     "677ff400-66d7-4db7-88be-913f981fa6cf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

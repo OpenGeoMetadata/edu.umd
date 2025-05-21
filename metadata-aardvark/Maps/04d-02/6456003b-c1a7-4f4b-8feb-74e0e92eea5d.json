@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Agami Fort, 1916. Scale=1:5,000. Streets, major buildings for part of Alexandria"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Ţābiyat al ‘Ajamī al Baḩrīyah, Egypt"
+    "Egypt--Ţābiyat al ‘Ajamī al Baḩrīyah"
   ],
-  "locn_geometry": "ENVELOPE(10.2289,10.0813,55.069,54.9983)",
-  "dcat_bbox": "ENVELOPE(10.2289,10.0813,55.069,54.9983)",
-  "dcat_centroid": "55.03365,10.155100000000001",
+  "locn_geometry": "POLYGON((29.472 31.590, 30.093 31.590, 30.093 30.360, 29.472 30.360, 29.472 31.590))",
+  "dcat_bbox": "ENVELOPE(29.472,30.093,31.590,30.360)",
+  "dcat_centroid": "30.975,29.7825",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f8/cc/48/3e/f8cc483e-db2c-4f96-aa82-43dcaeec1bd0\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f8/cc/48/3e/f8cc483e-db2c-4f96-aa82-43dcaeec1bd0\",\"label\":\"GeoTIFF\"}]}",
   "id": "6456003b-c1a7-4f4b-8feb-74e0e92eea5d",
   "dct_identifier_sm": [
     "6456003b-c1a7-4f4b-8feb-74e0e92eea5d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -31,11 +31,11 @@
     "[1914 TO 1914]"
   ],
   "dct_spatial_sm": [
-    "Lithuania, Lithuania"
+    "Lithuania--Lithuania"
   ],
-  "locn_geometry": "ENVELOPE(34.0056,15.527,59.8102,50.2642)",
-  "dcat_bbox": "ENVELOPE(34.0056,15.527,59.8102,50.2642)",
-  "dcat_centroid": "55.0372,24.7663",
+  "locn_geometry": "POLYGON((34.006 59.810, 15.527 59.810, 15.527 50.264, 34.006 50.264, 34.006 59.810))",
+  "dcat_bbox": "ENVELOPE(34.006,15.527,59.810,50.264)",
+  "dcat_centroid": "55.037000000000006,24.7665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a9/b4/db/04/a9b4db04-d1b3-4689-814a-a1f06d8b9584\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a9/b4/db/04/a9b4db04-d1b3-4689-814a-a1f06d8b9584\",\"label\":\"GeoTIFF\"}]}",
   "id": "59a5a2a1-3648-4c71-804d-d82ea6a7d4ba",
   "dct_identifier_sm": [
     "59a5a2a1-3648-4c71-804d-d82ea6a7d4ba"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Löwenhagen (Komsomolsk), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Russia (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Löwenhagen, Germany"
+    "Germany--Löwenhagen"
   ],
-  "locn_geometry": "ENVELOPE(20.4984,20.3289,54.6984,54.5984)",
-  "dcat_bbox": "ENVELOPE(20.4984,20.3289,54.6984,54.5984)",
-  "dcat_centroid": "54.648399999999995,20.41365",
+  "locn_geometry": "POLYGON((20.498 54.698, 20.329 54.698, 20.329 54.598, 20.498 54.598, 20.498 54.698))",
+  "dcat_bbox": "ENVELOPE(20.498,20.329,54.698,54.598)",
+  "dcat_centroid": "54.647999999999996,20.4135",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/46/cc/32/45/46cc3245-8a52-47a2-b3f6-f2f1992beb71\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/46/cc/32/45/46cc3245-8a52-47a2-b3f6-f2f1992beb71\",\"label\":\"GeoTIFF\"}]}",
   "id": "d7af3e99-8485-4689-a164-be7bf479d427",
   "dct_identifier_sm": [
     "d7af3e99-8485-4689-a164-be7bf479d427"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

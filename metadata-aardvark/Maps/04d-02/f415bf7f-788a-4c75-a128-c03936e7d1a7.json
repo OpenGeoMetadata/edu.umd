@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Germany - Geological Map - Ponarth (Dimitrovo), 1916. Scale=1:25,000. Topography, geology, rock types for parts of Russia (old Prussia, pre-WW II Germany)"
   ],
+  "dct_language_sm": [
+    "ger"
+  ],
   "dct_publisher_sm": [
     "Prussian Geological Institute"
   ],
@@ -27,11 +30,11 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Dimitrovo, Russia"
+    "Russia--Dimitrovo"
   ],
-  "locn_geometry": "ENVELOPE(20.3279,20.4984,54.6985,54.5971)",
-  "dcat_bbox": "ENVELOPE(20.3279,20.4984,54.6985,54.5971)",
-  "dcat_centroid": "54.647800000000004,20.41315",
+  "locn_geometry": "POLYGON((20.328 54.699, 20.498 54.699, 20.498 54.597, 20.328 54.597, 20.328 54.699))",
+  "dcat_bbox": "ENVELOPE(20.328,20.498,54.699,54.597)",
+  "dcat_centroid": "54.647999999999996,20.413",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f9/f1/e2/e6/f9f1e2e6-65c6-48d1-bfe0-060563201d09\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/f9/f1/e2/e6/f9f1e2e6-65c6-48d1-bfe0-060563201d09\",\"label\":\"GeoTIFF\"}]}",
   "id": "f415bf7f-788a-4c75-a128-c03936e7d1a7",
   "dct_identifier_sm": [
     "f415bf7f-788a-4c75-a128-c03936e7d1a7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

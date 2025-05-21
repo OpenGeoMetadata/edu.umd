@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Great Britain - Fakenham , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of England"
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Ordnance Survey"
   ],
@@ -27,11 +30,11 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Fakenham, United Kingdom"
+    "United Kingdom--Fakenham"
   ],
-  "locn_geometry": "ENVELOPE(0.519,-0.1092,53.069,52.7897)",
-  "dcat_bbox": "ENVELOPE(0.519,-0.1092,53.069,52.7897)",
-  "dcat_centroid": "52.92935,0.2049",
+  "locn_geometry": "POLYGON((0.507 52.994, 1.167 52.994, 1.167 52.728, 0.507 52.728, 0.507 52.994))",
+  "dcat_bbox": "ENVELOPE(0.507,1.167,52.994,52.728)",
+  "dcat_centroid": "52.861000000000004,0.837",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/87/a3/a0/32/87a3a032-012e-479a-a30e-d0dce1e4d69b\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/87/a3/a0/32/87a3a032-012e-479a-a30e-d0dce1e4d69b\",\"label\":\"GeoTIFF\"}]}",
   "id": "ef245d72-6d37-4b51-ac1e-5adfd226f612",
   "dct_identifier_sm": [
     "ef245d72-6d37-4b51-ac1e-5adfd226f612"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:08Z",
   "gbl_mdVersion_s": "Aardvark"
 }

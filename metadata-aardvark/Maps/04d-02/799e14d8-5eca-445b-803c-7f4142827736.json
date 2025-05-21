@@ -30,11 +30,11 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Kloster Engelberg, Switzerland"
+    "Switzerland--Kloster Engelberg"
   ],
-  "locn_geometry": "ENVELOPE(8.6407,8.2246,46.9213,46.7069)",
-  "dcat_bbox": "ENVELOPE(8.6407,8.2246,46.9213,46.7069)",
-  "dcat_centroid": "46.814099999999996,8.43265",
+  "locn_geometry": "POLYGON((8.641 46.921, 8.225 46.921, 8.225 46.707, 8.641 46.707, 8.641 46.921))",
+  "dcat_bbox": "ENVELOPE(8.641,8.225,46.921,46.707)",
+  "dcat_centroid": "46.814,8.433",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b5/38/1f/dd/b5381fdd-095f-46e5-a8e7-f87d415f983f\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b5/38/1f/dd/b5381fdd-095f-46e5-a8e7-f87d415f983f\",\"label\":\"GeoTIFF\"}]}",
   "id": "799e14d8-5eca-445b-803c-7f4142827736",
   "dct_identifier_sm": [
     "799e14d8-5eca-445b-803c-7f4142827736"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

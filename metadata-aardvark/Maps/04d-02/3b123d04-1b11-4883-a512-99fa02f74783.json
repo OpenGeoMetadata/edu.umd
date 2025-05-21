@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Skalling, 1910. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Asnæs Rev, Denmark"
+    "Denmark--Asnæs Rev"
   ],
-  "locn_geometry": "ENVELOPE(8.292,8.1392,55.5225,55.4541)",
-  "dcat_bbox": "ENVELOPE(8.292,8.1392,55.5225,55.4541)",
-  "dcat_centroid": "55.488299999999995,8.2156",
+  "locn_geometry": "POLYGON((8.292 55.523, 8.139 55.523, 8.139 55.454, 8.292 55.454, 8.292 55.523))",
+  "dcat_bbox": "ENVELOPE(8.292,8.139,55.523,55.454)",
+  "dcat_centroid": "55.4885,8.215499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c5/c0/f7/bc/c5c0f7bc-404b-4de7-b1ba-9ba149c266ea\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/c5/c0/f7/bc/c5c0f7bc-404b-4de7-b1ba-9ba149c266ea\",\"label\":\"GeoTIFF\"}]}",
   "id": "3b123d04-1b11-4883-a512-99fa02f74783",
   "dct_identifier_sm": [
     "3b123d04-1b11-4883-a512-99fa02f74783"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

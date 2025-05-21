@@ -6,6 +6,10 @@
   "dct_description_sm": [
     "Map of Egypt - Alexandria (Al-Iskandar_yah) (city map) - Gabbâri, 1910. Scale=1:5,000. Streets, major buildings for part of Alexandria. Incl. index of the Alexandria map series on reverse"
   ],
+  "dct_language_sm": [
+    "ara",
+    "eng"
+  ],
   "dct_publisher_sm": [
     "Egypt Survey Department"
   ],
@@ -27,11 +31,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Maḩaţţat al Qabbārī, Egypt"
+    "Egypt--Maḩaţţat al Qabbārī"
   ],
-  "locn_geometry": "ENVELOPE(29.8561,29.8285,31.1683,31.1458)",
-  "dcat_bbox": "ENVELOPE(29.8561,29.8285,31.1683,31.1458)",
-  "dcat_centroid": "31.157049999999998,29.8423",
+  "locn_geometry": "POLYGON((29.856 31.168, 29.828 31.168, 29.828 31.146, 29.856 31.146, 29.856 31.168))",
+  "dcat_bbox": "ENVELOPE(29.856,29.828,31.168,31.146)",
+  "dcat_centroid": "31.157,29.842",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d6/b0/9e/e8/d6b09ee8-1a57-4d93-95e9-7b932c2470ef\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d6/b0/9e/e8/d6b09ee8-1a57-4d93-95e9-7b932c2470ef\",\"label\":\"GeoTIFF\"}]}",
   "id": "58153617-9b17-4d56-9e61-cde49e4cff21",
   "dct_identifier_sm": [
     "58153617-9b17-4d56-9e61-cde49e4cff21"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

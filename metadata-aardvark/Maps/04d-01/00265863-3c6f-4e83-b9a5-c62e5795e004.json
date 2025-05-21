@@ -17,8 +17,7 @@
     "Atlases"
   ],
   "dcat_keyword_sm": [
-    "Atlases",
-    "University of Maryland Digital Collections"
+    "Atlases"
   ],
   "dct_temporal_sm": [
     "1891"
@@ -30,12 +29,12 @@
     "[1891 TO 1891]"
   ],
   "dct_spatial_sm": [
-    "Baltimore, Maryland",
+    "Maryland--Baltimore",
     "Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
-  "dcat_bbox": "ENVELOPE(-76.7115,-76.5295,39.3722,39.1972)",
-  "dcat_centroid": "39.2847,-76.62049999999999",
+  "locn_geometry": "POLYGON((-76.712 39.372, -76.529 39.372, -76.529 39.197, -76.712 39.197, -76.712 39.372))",
+  "dcat_bbox": "ENVELOPE(-76.712,-76.529,39.372,39.197)",
+  "dcat_centroid": "39.2845,-76.62049999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +43,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82153/info.json\",\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12556\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/1903.1/12556\",\"http://iiif.io/api/image\":\"https://iiif.lib.umd.edu/images/fedora2:umd:82153/info.json\"}",
   "id": "00265863-3c6f-4e83-b9a5-c62e5795e004",
   "dct_identifier_sm": [
     "00265863-3c6f-4e83-b9a5-c62e5795e004"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

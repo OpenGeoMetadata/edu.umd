@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Belgium - Bertrix, 1922. Scale=1:10,000. Topography, towns, roads, buildings for parts of Belgium"
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Institute Military Cartography"
   ],
@@ -27,11 +30,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Bertrix, Belgium"
+    "Belgium--Bertrix"
   ],
-  "locn_geometry": "ENVELOPE(5.3142,5.2046,49.9233,49.8299)",
-  "dcat_bbox": "ENVELOPE(5.3142,5.2046,49.9233,49.8299)",
-  "dcat_centroid": "49.876599999999996,5.259399999999999",
+  "locn_geometry": "POLYGON((5.314 49.923, 5.205 49.923, 5.205 49.830, 5.314 49.830, 5.314 49.923))",
+  "dcat_bbox": "ENVELOPE(5.314,5.205,49.923,49.830)",
+  "dcat_centroid": "49.8765,5.2595",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/4d/cd/d4/2c/4dcdd42c-a09a-4233-a827-ef118f967508\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/4d/cd/d4/2c/4dcdd42c-a09a-4233-a827-ef118f967508\",\"label\":\"GeoTIFF\"}]}",
   "id": "e3598f91-e6d1-4059-986f-699a15dc417b",
   "dct_identifier_sm": [
     "e3598f91-e6d1-4059-986f-699a15dc417b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

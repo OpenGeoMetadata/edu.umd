@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Sheet 12, 1910. Scale=1:160,000. Topography, towns, roads for parts of Denmark (Grenaa region)"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "General Staff Topographic Map"
   ],
@@ -27,11 +30,11 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Grenaa Marina, Denmark"
+    "Denmark--Grenaa Marina"
   ],
-  "locn_geometry": "ENVELOPE(10.9802,9.9688,56.7021,56.0847)",
-  "dcat_bbox": "ENVELOPE(10.9802,9.9688,56.7021,56.0847)",
-  "dcat_centroid": "56.3934,10.474499999999999",
+  "locn_geometry": "POLYGON((10.980 56.702, 9.969 56.702, 9.969 56.085, 10.980 56.085, 10.980 56.702))",
+  "dcat_bbox": "ENVELOPE(10.980,9.969,56.702,56.085)",
+  "dcat_centroid": "56.3935,10.474499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a7/eb/0a/5c/a7eb0a5c-cb00-472d-ba2a-c3830cb1a9de\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/a7/eb/0a/5c/a7eb0a5c-cb00-472d-ba2a-c3830cb1a9de\",\"label\":\"GeoTIFF\"}]}",
   "id": "aa247b1e-220e-4e33-9ea0-cf893742a0c6",
   "dct_identifier_sm": [
     "aa247b1e-220e-4e33-9ea0-cf893742a0c6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Horslunde, 1905. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1905 TO 1905]"
   ],
   "dct_spatial_sm": [
-    "Horslunde, Denmark"
+    "Denmark--Horslunde"
   ],
-  "locn_geometry": "ENVELOPE(11.2557,11.1106,54.9318,54.8599)",
-  "dcat_bbox": "ENVELOPE(11.2557,11.1106,54.9318,54.8599)",
-  "dcat_centroid": "54.89585,11.18315",
+  "locn_geometry": "POLYGON((11.256 54.932, 11.111 54.932, 11.111 54.860, 11.256 54.860, 11.256 54.932))",
+  "dcat_bbox": "ENVELOPE(11.256,11.111,54.932,54.860)",
+  "dcat_centroid": "54.896,11.1835",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b2/4b/91/1b/b24b911b-009f-4e05-9fa4-c4f3c2df5cfb\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b2/4b/91/1b/b24b911b-009f-4e05-9fa4-c4f3c2df5cfb\",\"label\":\"GeoTIFF\"}]}",
   "id": "01f851ee-f2ae-448d-9561-2146e92ead80",
   "dct_identifier_sm": [
     "01f851ee-f2ae-448d-9561-2146e92ead80"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

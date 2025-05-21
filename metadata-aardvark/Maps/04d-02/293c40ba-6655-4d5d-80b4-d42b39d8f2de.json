@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Denmark - Sönderho (Sønderho), 1901. Scale=1:20,000. Topography, towns, roads for parts of Denmark"
   ],
+  "dct_language_sm": [
+    "dan"
+  ],
   "dct_publisher_sm": [
     "Geodetic Institute"
   ],
@@ -27,11 +30,11 @@
     "[1901 TO 1901]"
   ],
   "dct_spatial_sm": [
-    "Sønderho, Denmark"
+    "Denmark--Sønderho"
   ],
-  "locn_geometry": "ENVELOPE(8.5956,8.4441,55.3923,55.3236)",
-  "dcat_bbox": "ENVELOPE(8.5956,8.4441,55.3923,55.3236)",
-  "dcat_centroid": "55.35795,8.51985",
+  "locn_geometry": "POLYGON((8.596 55.392, 8.444 55.392, 8.444 55.324, 8.596 55.324, 8.596 55.392))",
+  "dcat_bbox": "ENVELOPE(8.596,8.444,55.392,55.324)",
+  "dcat_centroid": "55.358000000000004,8.52",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/11/72/7d/07/11727d07-9675-41a6-9981-fe99a4f9f31f\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/11/72/7d/07/11727d07-9675-41a6-9981-fe99a4f9f31f\",\"label\":\"GeoTIFF\"}]}",
   "id": "293c40ba-6655-4d5d-80b4-d42b39d8f2de",
   "dct_identifier_sm": [
     "293c40ba-6655-4d5d-80b4-d42b39d8f2de"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

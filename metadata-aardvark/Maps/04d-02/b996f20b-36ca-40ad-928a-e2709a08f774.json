@@ -6,6 +6,9 @@
   "dct_description_sm": [
     "Map of Algeria - Debrousseville , 1911. Scale=1:10,000. Topography, streets, main buildings in Debrousseville region. In French."
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_publisher_sm": [
     "Service Géographique de L'Armée"
   ],
@@ -27,11 +30,11 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Debrousseville, Algeria"
+    "Algeria--Debrousseville"
   ],
-  "locn_geometry": "ENVELOPE(-0.1403,-0.1839,35.8197,35.7735)",
-  "dcat_bbox": "ENVELOPE(-0.1403,-0.1839,35.8197,35.7735)",
-  "dcat_centroid": "35.7966,-0.16210000000000002",
+  "locn_geometry": "POLYGON((-0.140 35.820, -0.184 35.820, -0.184 35.773, -0.140 35.773, -0.140 35.820))",
+  "dcat_bbox": "ENVELOPE(-0.140,-0.184,35.820,35.773)",
+  "dcat_centroid": "35.7965,-0.162",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -39,12 +42,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/95/62/00/fa/956200fa-4a5f-419b-8b1c-b700fe2ebcd7\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/95/62/00/fa/956200fa-4a5f-419b-8b1c-b700fe2ebcd7\",\"label\":\"GeoTIFF\"}]}",
   "id": "b996f20b-36ca-40ad-928a-e2709a08f774",
   "dct_identifier_sm": [
     "b996f20b-36ca-40ad-928a-e2709a08f774"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

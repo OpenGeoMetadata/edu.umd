@@ -31,11 +31,11 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Beira Port, Mozambique"
+    "Mozambique--Beira Port"
   ],
-  "locn_geometry": "ENVELOPE(34.8642,34.801,-19.8067,-19.8538)",
-  "dcat_bbox": "ENVELOPE(34.8642,34.801,-19.8067,-19.8538)",
-  "dcat_centroid": "-19.83025,34.8326",
+  "locn_geometry": "POLYGON((34.864 -19.807, 34.801 -19.807, 34.801 -19.854, 34.864 -19.854, 34.864 -19.807))",
+  "dcat_bbox": "ENVELOPE(34.864,34.801,-19.807,-19.854)",
+  "dcat_centroid": "-19.8305,34.832499999999996",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,12 +43,11 @@
     "04d-02"
   ],
   "dct_accessRights_s": "Public",
-  "dct_format_s": "TIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5e/3a/1f/cc/5e3a1fcc-c3fa-4538-956d-57dc3d32f8ea\"}",
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5e/3a/1f/cc/5e3a1fcc-c3fa-4538-956d-57dc3d32f8ea\",\"label\":\"GeoTIFF\"}]}",
   "id": "0cdb25b9-a419-4284-baa4-6653de4f7776",
   "dct_identifier_sm": [
     "0cdb25b9-a419-4284-baa4-6653de4f7776"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }
